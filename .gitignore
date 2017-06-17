@@ -3,7 +3,11 @@
 # Example.gitignore files : https://github.com/github/gitignore
 _notes/
 /bower_components/
+<<<<<<< HEAD
 /node_modules/
 
 # Mine
 dwsync.xml
+=======
+/node_modules/
+>>>>>>> start
