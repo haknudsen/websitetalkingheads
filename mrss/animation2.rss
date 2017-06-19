@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+
+	<title>Website Talking Heads Animation Videos</title>
+	<link>http://websitetalkingheads.com/mrss/</link>
+	<description>Examples of Website Talking Heads Animation Videos</description>
+
+
+<item>
+	<title>Website Talking Heads: Healthy Choices Animation</title>
+	<link>http://www.websitetalkingheads.com/videopresentations/animation.php</link>
+	<description>This is an example of our Animation Videos.  Making Healthy Choices Animation</description>
+	<media:content url="http://www.youtube.com/watch?v=oDzhSRu3yRo" medium="video" height="1920" width="1080">
+	<media:title>Website Talking Heads: Healthy Choices Animation</media:title>
+	<media:description>This is an example of our Animation Videos.  Making Healthy Choices Animation</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/oDzhSRu3yRo/mqdefault.jpg" height="320" width="180"/>
+	</media:content>
+</item>
+
+
+
+</channel>
+</rss>

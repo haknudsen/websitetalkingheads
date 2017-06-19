@@ -1,0 +1,48 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+##added for ticket O3Y6Z6O
+#AddType application/x-httpd-php56 .php
+#Action application/x-httpd-php56 /cgi-sys/php56.cgi
+
+Redirect 301 /actors/content-1.php /spokespeople/female-carousel.php
+Redirect 301 /actors.php /spokespeople/female-carousel.php
+Redirect 301 /actors_female.html /spokespeople/female-carousel.php
+Redirect 301 /Adam.html /spokespeople/female-carousel.php
+Redirect 301 /Adam.html /spokespeople/female-carousel.php
+Redirect 301 /Alexander.html /spokespeople/female-carousel.php
+Redirect 301 /Alexandra.html /spokespeople/female-carousel.php
+Redirect 301 /Allan.html /spokespeople/male-carousel.php
+Redirect 301 /Amy.html /spokespeople/female-carousel.php
+Redirect 301 /Angie.html /spokespeople/female-carousel.php
+Redirect 301 /Brad.html /spokespeople/male-carousel.php
+Redirect 301 /Brandy.html /spokespeople/female-carousel.php
+Redirect 301 /Bronwyn.html /spokespeople/female-carousel.php
+Redirect 301 /Cameron.html /spokespeople/male-carousel.php
+Redirect 301 /Carolyn.html /spokespeople/female-carousel.php
+Redirect 301 /Chantell.html /spokespeople/female-carousel.php
+Redirect 301 /Cheryl.html /spokespeople/female-carousel.php
+Redirect 301 /Collin.html /spokespeople/male-carousel.php
+Redirect 301 /Crystal.html /spokespeople/female-carousel.php
+Redirect 301 /Cydney.html /spokespeople/female-carousel.php
+Redirect 301 /gactors_male.html /spokespeople/male-carousel.php
+Redirect 301 /gactors_female.html /spokespeople/female-carousel.php
+RewriteEngine on
+RewriteCond %{QUERY_STRING} ^[^=]*$
+RewriteCond %{QUERY_STRING} %2d|- [NC]
+RewriteRule .? - [F,L]
+
+#Action application/x-pair-sphp4 /cgi-sys/php-cgiwrap/working/php4.cgi
+#AddType application/x-pair-sphp4 .php 
+
+#Action application/x-pair-sphp5 /cgi-sys/php-cgiwrap/working/php5.cgi
+#AddType application/x-pair-sphp5 .php
+
+AddType image/png png
+DirectoryIndex index.php index.html index.shtml index.cgi index.php3 index.phtml index.htm home.html welcome.html
+ErrorDocument 404 https://www.websitetalkingheads.com/404error.php
+ErrorDocument 500 https://www.websitetalkingheads.com/500.php
+ErrorDocument 403 https://www.websitetalkingheads.com/403.php
+ErrorDocument 401 https://www.websitetalkingheads.com/401.php

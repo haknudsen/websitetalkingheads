@@ -1,0 +1,17 @@
+@charset "utf-8";
+#menuHome.current h2{background-image: url(https://www.websitetalkingheads.com/images/menu-button_on.png);cursor: default;color: #000E14;text-shadow: 0 1px 0 rgba(0,0,0,0.4);background-repeat: no-repeat;}
+#menuActors.current h2{background-image: url(https://www.websitetalkingheads.com/images/menu-button_on.png);cursor: default;color: #000000;text-shadow: 0 1px 0 rgba(0,0,0,0.4)}
+#menuExamples.current h2{background-image:url(https://www.websitetalkingheads.com/images/menu-button_on.png);cursor:default;color:#000E14;text-shadow:0 1px 0 rgba(0,0,0,0.4)}
+#menuPrices.current h2{background-image:url(https://www.websitetalkingheads.com/images/menu-button_on.png);cursor:default;color:#000E14;text-shadow:0 1px 0 rgba(0,0,0,0.4)}
+#menuOrder.current h2{background-image:url(https://www.websitetalkingheads.com/images/menu-button_on.png);cursor:default;color:#000E14;text-shadow:0 1px 0 rgba(0,0,0,0.4)}
+#menuVideos.current h2{background-image:url(https://www.websitetalkingheads.com/images/menu-button_on.png);cursor:default;color:#000E14;text-shadow:0 1px 0 rgba(0,0,0,0.4)}
+#menuContact.current h2{background-image:url(https://www.websitetalkingheads.com/images/menu-button_on.png);cursor:default;color:#000E14;text-shadow:0 1px 0 rgba(0,0,0,0.4)}
+#whiteboard{color:#043c55;background-image:url(https://www.websitetalkingheads.com/images/menu-button-purple.png);background-repeat:no-repeat;}
+#whiteboard h2{text-align:center;text-decoration:none;padding-top:5px;text-shadow:0 1px 0 rgba(0,0,0,0.4);display:block;margin:0 0 -16px;font:700 13px/16px Arial,Helvetica,sans-serif;line-height:16px!important;}
+.current h2{font: 700 12px/70px Arial,Helvetica,sans-serif!important;color: #1981FF;}
+.other h2{font: 700 12px/70px Arial,Helvetica,sans-serif!important;color: rgba(0,0,0,1.00);}
+#menuSpecials{background-image:url(https://www.websitetalkingheads.com/images/menu-specials.png);background-repeat:no-repeat;color:#000}
+#menuSpecials:hover h2{background-image:url(https://www.websitetalkingheads.com/images/menu-specials-on.png);background-repeat:no-repeat}
+a#menuSpecials.current h2{background-image:url(https://www.websitetalkingheads.com/images/menu-specials-on.png);background-repeat:no-repeat;cursor:default}
+.Talking-Heads-Navigation{height:76px;overflow:hidden;}
+#header_top h1{visibility:hidden;}

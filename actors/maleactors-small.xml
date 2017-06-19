@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<carousel xr="400" yr="70" xc="150" yc="300" perspective="50" vx="455" vy="182" reflection="0" speed=".004" videowidth="540" videoheight="360" captioncol="0x0088AA" captionfont="Arial">
+	<item image="../carimages/Jed" caption="Jed" targetloc="../videos/Jed.flv"/>
+	<item image="../carimages/Sergio" caption="Sergio" targetloc="../videos/Sergio.flv"/>
+	<item image="../carimages/Brad" caption="Brad" targetloc="../videos/Brad.flv"/>
+	<item image="../carimages/Joey" caption="Joey" targetloc="../videos/Joey.flv"/>
+</carousel>

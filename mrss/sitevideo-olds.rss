@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+	<title>Video Spokespeople-Website Talking Heads</title>
+	<link>http://websitetalkingheads.com/mrss/</link>
+	<description>Videos on WebsiteTalkingHeads.com</description>
+<item> 
+       <title>Rated the Number 1 Video Spokesperson company, Website Talking Heads, Website Spokesperson, virtual spokesperson</title>
+		<link>http://www.websitetalkingheads.com/</link>
+       <description>Top Video Spokesperson Review By Website Talking Heads.  See website spokeperson, virtual spokesperson. person on website, and walk on actors.</description>
+       <media:thumbnail url="http://www.websitetalkingheads.com/wthvideo/chantelhome.jpg"/> 
+       <media:description>Top Video Spokesperson Review By Website Talking Heads.  See website spokeperson, virtual spokesperson. person on website, and walk on actors.</media:description>
+       <media:content url="http://www.websitetalkingheads.com/wthvideo/chantelhome.flv">
+		</media:content>
+</item>
+<item> 
+       <title>Actor Introducing Examples of Video Spokesperson on a website.  Use a virtual spokesperson to walk on website.</title>
+       <link>http://www.websitetalkingheads.com/examples.php</link>
+       <description>Ranking of Video Spokesperson, Website Spokepserson, Virtual Spokesperson or Person on Website.  Website Talking Heads.</description>
+       <media:thumbnail url="http://www.websitetalkingheads.com/carimages/Renny.png"/> 
+       <media:description>Ranking of Video Spokesperson, Website Spokepserson, Virtual Spokesperson or Person on Website.  Website Talking Heads.</media:description>
+       <media:content url="http://www.websitetalkingheads.com/examples/wthvideo/rennyexamples.flv">
+</item>
+   
+</channel>
+</rss>

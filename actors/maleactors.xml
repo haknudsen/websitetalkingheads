@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<carousel xr="400" yr="70" xc="150" yc="300" perspective="50" vx="455" vy="182" reflection="0" speed=".004" videowidth="540" videoheight="360" captioncol="0x0088AA" captionfont="Arial">
+	<item image="../carimages/Derek" caption="Derek" targetloc="../videos/Derek.flv"/>
+	<item image="../carimages/Jed" caption="Jed" targetloc="../videos/Jed.flv"/>
+	<item image="../carimages/Joey" caption="Joey" targetloc="../videos/Joey.flv"/>
+	<item image="../carimages/Brad" caption="Brad" targetloc="../videos/Brad.flv"/>
+	<item image="../carimages/Daniel" caption="Daniel" targetloc="../videos/Daniel.flv"/>
+	<item image="../carimages/Terry" caption="Terry" targetloc="../videos/Terry.flv"/>
+	<item image="../carimages/Jeff" caption="Jeff" targetloc="../videos/Jeff.flv"/>
+	<item image="../carimages/Randall" caption="Randall" targetloc="../videos/Randall.flv"/>
+	<item image="../carimages/Mike" caption="Mike" targetloc="../videos/Mike.flv"/>
+	<item image="../carimages/TerryG" caption="TerryG" targetloc="../videos/TerryG.flv"/>
+	<item image="../carimages/Michael" caption="Michael" targetloc="../videos/Michael.flv"/>
+	<item image="../carimages/Ben" caption="Ben" targetloc="../videos/Ben.flv"/>
+	<item image="../carimages/Walt" caption="Walt" targetloc="../videos/Walt.flv"/>
+	<item image="../carimages/Jack" caption="Jack" targetloc="../videos/Jack.flv"/>
+	<item image="../carimages/Lonzo" caption="Lonzo" targetloc="../videos/Lonzo.flv"/>
+	<item image="../carimages/Aubrey" caption="Aubrey" targetloc="../videos/Aubrey.flv"/>
+	<item image="../carimages/Ron" caption="Ron" targetloc="../videos/Ron.flv"/>
+	<item image="../carimages/Joshua" caption="Joshua" targetloc="../videos/Joshua.flv"/>
+</carousel>

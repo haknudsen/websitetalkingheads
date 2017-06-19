@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+	<title>Website Talking Heads Featured Actors</title>
+	<link>http://www.websitetalkingheads.com/specials/</link>
+	<description>Here are our Featured Actors beginning 12/19/2015 and ending December 25th.  Check out our specials at http://www.websitetalkingheads.com/specials/</description>
+	<item>
+		<title>Featured Actor - Chantel</title>
+		<link>http://www.websitetalkingheads.com/specials/</link>
+		<description>Chantel - Mens Featured Actor until December 25th.</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Chantel.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Chantel.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Chantel as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title>Featured Actor - Jed</title>
+		<link>http://www.websitetalkingheads.com/specials/</link>
+		<description>Jed - Womens Featured Actor until December 25th.</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Jed.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Jed.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Jed as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+</channel>
+</rss>

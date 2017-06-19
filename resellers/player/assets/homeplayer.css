@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+
+#MyPlayer{
+	position: fixed;
+	width: 546px;
+	height: 400px;
+	z-index: 99;
+	visibility: hidden;
+	border:medium solid #000000;
+	left: 50%;
+	margin-left: -275px;
+	margin-top:30px;
+	background:#fff
+}
+.MyPlayerHolder{
+	width: 915px;
+	height:500px;
+	padding-top:20px;
+}
+.smallPlayerHolder{
+	width: 732px;
+	height:500px;
+	padding-top:20px;
+}
+.HTML5system{
+	width: 100%;
+	height:500px;
+	padding-top:20px;
+}
+#MyCarousel{  
+	margin: auto ;
+	width:90%;
+	height:460px;
+	background:#fff;
+	overflow:auto;
+	opacity:1;
+	border:#117FB0 medium solid;
+}
+
+#ipadimage{
+	width:160px;
+	height:210px;
+	float:left;
+	padding-right:6px;
+	opacity:1;
+}
+#ipadimage a:hover{
+	opacity:.9;
+	cursor:pointer;
+}
+.ipadimage-text {
+	text-align:center;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+	text-decoration:none;
+	color:#000;
+}
+.ipadimage-text a{
+	text-align: center;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+	text-decoration: none;
+	color: #000;
+}
+.ipadimage-text a:visited{
+	color:#000;
+}
+.ipadimage-text a:hover{
+	text-align:center;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+	text-decoration:none;
+	cursor:pointer;
+	color: #000;
+}
+.c{
+clear:both;
+}
+#c{
+clear:both;
+}
+.videoBox {
+	width:540px;
+	height:360px;
+	z-index: 100;
+}
+#videoBoxText{
+	margin-top:0px;
+	text-align:center;
+	font-size:200%;
+	font-weight:bold;
+	text-shadow: 1px 1px 4px rgba(255,255,255,0.8);
+	z-index: 1119999;
+	color:#30C;
+}
+.PlayerBar{
+	margin: auto;
+	width:160px;
+	padding-top:5px
+}	
+.PlayerBar a:hover{
+	opacity:.9;
+}
+	
+.PlayerBar a {
+	opacity:1;
+}
+#Volume{
+	float:left;
+}
+
+#timeDisplay{
+	float:left;
+	margin-left:10px;
+	padding-top:6px;
+	font-size:18px;
+	line-height:20px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+}
+#restartHolder{
+	float:left;
+	padding-left:100px;
+}
+#PlayPause{
+	float:left;
+	padding-left:230px;
+}
+#playerClose {
+	float:right;
+	margin-right:8px;
+}
+#report{
+	color:#F00;
+}
+#report2{
+	color:#c06;
+}
+.playerBtn{float:left;width:40px}

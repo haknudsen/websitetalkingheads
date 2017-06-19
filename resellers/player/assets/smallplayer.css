@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+.HTML5system{
+	width: 690px;
+	height:415px;
+	padding:0px;
+	margin:0px;
+}
+.smallPlayerHolder{
+	width: 690px;
+	height:415px;
+	padding:0px;
+	margin:0px;
+}
+#MyPlayer{
+	width: 550px;
+	height: 410px;
+	position:absolute;
+	left:70px;
+	top:14px;
+	z-index: 99;
+	padding-left:5px;
+	padding-top:10px;
+	margin:0px;
+	cursor: pointer;
+	background-image:url('http://websitetalkingheads.com/resellers/player/assets/PlayerBase.png');
+	background-repeat:no-repeat;
+	border:none;
+	visibility:hidden;
+}
+
+
+#MyCarousel{  
+	margin: auto ;
+	width:684px;
+	height:415px;
+	background:#fff;
+	overflow:auto;
+	opacity:1;
+	border:#117FB0 medium solid;
+}
+
+#ipadimage{
+	width:160px;
+	height:210px;
+	float:left;
+	padding-right:6px;
+	opacity:1;
+}
+#ipadimage a:hover{
+	opacity:.9;
+	cursor:pointer;
+}
+.ipadimage-text {
+	text-align:center;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+	text-decoration:none;
+	color:#000;
+}
+.ipadimage-text a{
+	text-align: center;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+	text-decoration: none;
+	color: #000;
+}
+.ipadimage-text a:visited{
+	color:#000;
+}
+.ipadimage-text a:hover{
+	text-align:center;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+	text-decoration:none;
+	cursor:pointer;
+	color: #000;
+}
+.c{
+clear:both;
+}
+#c{
+clear:both;
+}
+.videoBox {
+	width:540px;
+	height:360px;
+	z-index: 100;
+}
+#videoBoxText{
+	margin-top:-40px;
+	text-align:center;
+	font-size:200%;
+	font-weight:bold;
+	text-shadow: 1px 1px 4px rgba(255,255,255,0.8);
+	z-index: 199;
+	color:#30C;
+}
+.PlayerBar{
+	margin-top:4px;
+	margin-bottom:4px;
+}	
+.PlayerBar a:hover{
+	opacity:.8;
+}
+	
+.PlayerBar a {
+	opacity:1;
+}
+#Volume{
+	float:left;
+	padding-left:10px;
+}
+
+#timeDisplay{
+	float:left;
+	margin-left:10px;
+	padding-top:6px;
+	font-size:18px;
+	line-height:20px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+}
+#restartHolder{
+	float:left;
+	padding-left:100px;
+}
+#PlayPause{
+	float:left;
+	padding-left:230px;
+}
+#playerClose {
+	float:right;
+	margin-right:20px;
+}
+#report{
+	color:#F00;
+}
+#report2{
+	color:#c06;
+}

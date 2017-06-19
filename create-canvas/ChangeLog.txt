@@ -1,0 +1,17 @@
+- 1.0.4 (23/07/2015)
+	- Fix method call (Http/Handler.php)
+	- Pass quality param (Http/Handler.php)
+
+- 1.0.3 (25/06/2015)
+	- Use old PHP 5.3 array syntax (Uploader.php).
+	
+- 1.0.2 (19/06/2015)
+	- Fixed autoload bug from the 1.0.1 update (vendor/composer).
+	
+- 1.0.1 (13/06/2015)
+	- Fix events array (Http/Handler.php).
+	- Added Handler::getUploader method.
+	- Pass files array (jquery.filepicker.js).
+
+- 1.0.0 (22/05/2015)
+	- Initial release.

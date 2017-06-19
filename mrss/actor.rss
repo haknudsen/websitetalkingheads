@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+
+	<title>Website Talking Heads Video Spokespeople</title>
+	<link>http://websitetalkingheads.com/mrss/</link>
+	<description>Introduction Videos for our Videospokespeople</description>
+
+
+	<item>
+		<title>Website Talking Heads: Chantel</title>
+		<link>http://websitetalkingheads.com/actors/female-carousel.php</link>
+		<description>This is Chantel, one of our Video Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Chantel.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Chantel.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>This is an example of our Animation Videos.  Making Healthy Choices Animation</media:description>
+		</media:content>
+	</item>
+
+
+
+</channel>
+</rss>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<carousel xr="400" yr="70" xc="150" yc="300" perspective="50" vx="455" vy="182" reflection="0" speed=".004" videowidth="540" videoheight="360" captioncol="0x0088AA" captionfont="Arial">
+	<item image="../carimages/Tauni" caption="Tauni" targetloc="../videos/Tauni.flv"/>
+	<item image="../carimages/Raquel" caption="Raquel" targetloc="../videos/Raquel.flv"/>
+	<item image="../carimages/Rita" caption="Rita" targetloc="../videos/Rita.flv"/>
+	<item image="../carimages/Nina" caption="Nina" targetloc="../videos/Nina.flv"/>
+	<item image="../carimages/Anna" caption="Anna" targetloc="../videos/Anna.flv"/>
+	<item image="../carimages/LizS" caption="LizS" targetloc="../videos/LizS.flv"/>
+	<item image="../carimages/Elizabeth" caption="Elizabeth" targetloc="../videos/Elizabeth.flv"/>
+	<item image="../carimages/Carly" caption="Carly" targetloc="../videos/Carly.flv"/>
+	<item image="../carimages/Denise" caption="Denise" targetloc="../videos/Denise.flv"/>
+	<item image="../carimages/Andrea" caption="Andrea" targetloc="../videos/Andrea.flv"/>
+	<item image="../carimages/Cory" caption="Cory" targetloc="../videos/Cory.flv"/>
+	<item image="../carimages/Baylee" caption="Baylee" targetloc="../videos/Baylee.flv"/>
+	<item image="../carimages/Jackie" caption="Jackie" targetloc="../videos/Jackie.flv"/>
+	<item image="../carimages/Maria" caption="Maria-Spanish" targetloc="../videos/Maria-Spanish.flv"/>
+	<item image="../carimages/Amy" caption="Amy" targetloc="../videos/Amy.flv"/>
+	<item image="../carimages/Thora" caption="Thora" targetloc="../videos/Thora.flv"/>
+	<item image="../carimages/Jennifer" caption="Jennifer" targetloc="../videos/Jennifer.flv"/>
+	<item image="../carimages/Heather" caption="Heather" targetloc="../videos/Heather.flv"/>
+	<item image="../carimages/Allison" caption="Allison" targetloc="../videos/Allison.flv"/>
+	<item image="../carimages/Jessica" caption="Jessica" targetloc="../videos/Jessica.flv"/>
+</carousel>
