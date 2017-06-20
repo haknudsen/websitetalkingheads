@@ -8,7 +8,7 @@ input:focus,textarea:focus,SELECT:focus,#script:focus{outline:solid #0616CD 1px;
 .formTopLeft{width:370px;float:left;border:4px solid #117fb0;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px;padding:10px;background:#feffff;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZWZmZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIzNSUiIHN0b3AtY29sb3I9IiNkZGYxZjkiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYTBkOGVmIiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-radial-gradient(center,ellipse cover,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%);background:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,#feffff),color-stop(35%,#ddf1f9),color-stop(100%,#a0d8ef));background:-webkit-radial-gradient(center,ellipse cover,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%);background:-o-radial-gradient(center,ellipse cover,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%);background:-ms-radial-gradient(center,ellipse cover,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%);background:radial-gradient(ellipse at center,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#feffff',endColorstr='#a0d8ef',GradientType=1);box-shadow:0 1px 2px 2px rgba(0,0,0,0.4)}
 .formTopLeft label{width:340px;display:inline-block;padding-bottom:4px}
 .formTopLeft input{width:200px;float:right}
-#Wardrobe{height:30px;width:220px;float:right}
+#Wardrobe{height:100px;width:100%}
 .formTopLeft select{width:206px;float:right;height:23px}
 .formTopRight{float:left;width:370px;margin-left:5px}
 .formLine{margin-top:8px}
@@ -86,4 +86,4 @@ input[type=checkbox]:checked + label {
   color: black;
 } 
 .my-textbox{margin: 10px auto;width:480px;height:200px}
-.form-body{width: 67%;margin: 0 auto}
+.form-body{width: 80%;margin: 0 auto}

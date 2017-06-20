@@ -28,84 +28,85 @@
     <section class="section">
         <div class="container">
             <form action="2mail.php" method="post" name="form1" target="_self" class="reseller-form">
-                <p align="center" class="m-25">
-                    <input name="Update" type="checkbox" id="Update" value="yes"> Check here if this is an update to an order.</p>
-                <div class="row">
-                    <div class="col-md-4 text-right"><strong>Contact Name</strong>
-                        <input name="subject" type="hidden" value="Video Purchase">
-                        <input name="recipient" type="hidden" id="recipient" value="sales@websitetalkingheads.com">
-                        <input name="redirect" type="hidden" id="redirect" value="ordersubmitted.php">
+                <div class="m-25">
+                    <p align="center" class="m-25">
+                        <input name="Update" type="checkbox" id="Update" value="yes"> Check here if this is an update to an order.</p>
+                    <div class="row">
+                        <div class="col-md-4 text-right"><strong>Contact Name</strong>
+                            <input name="subject" type="hidden" value="Video Purchase">
+                            <input name="recipient" type="hidden" id="recipient" value="sales@websitetalkingheads.com">
+                            <input name="redirect" type="hidden" id="redirect" value="ordersubmitted.php">
+                        </div>
+                        <div class="col-md-8">
+                            <input name="nameText" type="text" id="nameText" maxlength="30" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
+                        </div>
                     </div>
-                    <div class="col-md-8">
-                        <input name="nameText" type="text" id="nameText" maxlength="30" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
+                    <div class="row">
+                        <div class="col-md-4 text-right"><strong>Company Name</strong>
+                        </div>
+                        <div class="col-md-8">
+                            <input name="companyText" type="text" id="companyText" maxlength="30" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
+                        </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 text-right"><strong>Company Name</strong>
+                    <div class="row">
+                        <div class="col-md-4 text-right"><strong>White Label</strong>
+                        </div>
+                        <div class="col-md-8">
+                            <SELECT name="whitelable">
+                                <option value="Not White Lable">Not White Lable</option>
+                                <option value="White Lable" selected>White Lable</option>
+                                <option value="Upload to our FTP">Upload to our FTP</option>
+                            </SELECT>
+                        </div>
                     </div>
-                    <div class="col-md-8">
-                        <input name="companyText" type="text" id="companyText" maxlength="30" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
+                    <div class="row">
+                        <div class="col-md-4 text-right"><strong>E-mail Address</strong>
+                        </div>
+                        <div class="col-md-8">
+                            <input name="emailText" type="text" id="emailText" maxlength="40" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
+                        </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 text-right"><strong>White Label</strong>
+                    <div class="row">
+                        <div class="col-md-4 text-right"><strong>Phone Number</strong>
+                        </div>
+                        <div class="col-md-8">
+                            <input name="phoneNumber" type="text" id="phoneNumber" maxlength="40" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
+                        </div>
                     </div>
-                    <div class="col-md-8">
-                        <SELECT name="whitelable">
-                            <option value="Not White Lable">Not White Lable</option>
-                            <option value="White Lable" selected>White Lable</option>
-                            <option value="Upload to our FTP">Upload to our FTP</option>
-                        </SELECT>
+                    <div class="row">
+                        <div class="col-md-4 text-right"><strong>Website</strong>
+                        </div>
+                        <div class="col-md-8">
+                            <input name="websiteText" type="text" id="websiteText" maxlength="60" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
+                        </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 text-right"><strong>E-mail Address</strong>
+                    <div class="row">
+                        <div class="col-md-4 text-right"><strong>Type of Video</strong>
+                        </div>
+                        <div class="col-md-8">
+                            <SELECT size="1" name="video">
+                                <option value="Not Specified" selected>Please Choose</option>
+                                <option value="30 second">30 second (1-90 words)</option>
+                                <option value="60 second">60 second (91-180 words)</option>
+                                <option value="Longer or multiple videos">Longer or multiple videos</option>
+                                <option value="Video Presentation w/Graphics">Video Presentation w/Graphics</option>
+                                <option value="File Conversion">File Conversion</option>
+                            </SELECT>
+                        </div>
                     </div>
-                    <div class="col-md-8">
-                        <input name="emailText" type="text" id="emailText" maxlength="40" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 text-right"><strong>Phone Number</strong>
-                    </div>
-                    <div class="col-md-8">
-                        <input name="phoneNumber" type="text" id="phoneNumber" maxlength="40" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 text-right"><strong>Website</strong>
-                    </div>
-                    <div class="col-md-8">
-                        <input name="websiteText" type="text" id="websiteText" maxlength="60" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 text-right"><strong>Type of Video</strong>
-                    </div>
-                    <div class="col-md-8">
-                        <SELECT size="1" name="video">
-                            <option value="Not Specified" selected>Please Choose</option>
-                            <option value="30 second">30 second (1-90 words)</option>
-                            <option value="60 second">60 second (91-180 words)</option>
-                            <option value="Longer or multiple videos">Longer or multiple videos</option>
-                            <option value="Video Presentation w/Graphics">Video Presentation w/Graphics</option>
-                            <option value="File Conversion">File Conversion</option>
-                        </SELECT>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 text-right"><strong>Actor Name</strong>
-                    </div>
-                    <div class="col-md-8">
-                        <label>
+                    <div class="row">
+                        <div class="col-md-4 text-right"><strong>Actor Name</strong>
+                        </div>
+                        <div class="col-md-8">
+                            <label>
                         <input type="text" name="ActorName" id="Actor Name" onKeyDown="if(event.keyCode==13) event.keyCode=9;">
                     </label>
-                    
+                        
 
 
 
 
-
+                        </div>
                     </div>
                 </div>
                 <div class="m-25">
@@ -128,143 +129,128 @@
                 <div class="container m-25">
                     <div class="form-body">
                         <div class="row m-25">
-                            <div class="col-md-4">
-                                <strong>Positioning on website</strong>
-                                <div id="seventyfivepercent">** Do not choose custom without providing specific instructions on where to place the video
-                                </div>
-                            </div>
-                            <div class="col-md-8">
-                                <select name="Positioning" id="Positioning">
-                                    <option value="not specified">Please Choose</option>
-                                    <option value="Bottom Left">Bottom Left</option>
-                                    <option value="Bottom Right" selected="selected">Bottom Right</option>
-                                    <option value="Bottom Center">Bottom Center</option>
-                                    <option value="Top Left">Top Left</option>
-                                    <option value="Top Right ">Top Right</option>
-                                    <option value="Top Center">Top Center</option>
-                                    <option value="Left Center">Left Center</option>
-                                    <option value="Center">Center</option>
-                                    <option value="Right Center">Right Center</option>
-                                    <option value="Custom">Custom</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-3-offset col-md-6" valign="top"><strong>How the Actor is Shot</strong>
-                            </div>
-                            <div class="col-md-8">
-                                <label>
-                            <input type="radio" name="BodyShot" value="Full Body" id="Body Shot_0">
-                            Full Body</label>
-                            
-                                <label>
-                            <input type="radio" name="BodyShot" value="Half Body" id="Body Shot_1">
-                            Half Body</label>
-                            
-                                <label>
-                            <input type="radio" name="BodyShot" value="3/4 Body" id="Body Shot_2">
-                            3/4 Body</label>
-                            
-                            </div>
-                            <div class="row">
-                                <strong>Size: </strong>
-                                <div id="seventyfivepercent">
-                                    <div align="left">Our default size is 256x384 pixels for a full or 3/4 body. Our default size is 320x320 pixels for a half body.</div>
-                                </div>
-                            </div>
-                            <div class="col-md-8">
-                                <p>If you require a custom size please enter. If not please leave blank.</p>
-                                <p>
-                                    <label>Width
-                            <input type="text" name="Width" id="Width">
-                        </label>
-                                    <br>
-                                    <label>Height
-                            <input type="text" name="Height" id="Height">
-                        </label>
-                                </p>
-                            </div>
-                            <div class="row p-10">
-                                <div class="col-md-4 text-right"><strong>Autostart</strong><br/>
-                                    <span class="seventyfivepercent">Determines how the player starts playing the video.</span>
-                                </div>
-                                <div class="col-md-8">
-                                </div>
-                                <div class="row p-10">
-                                    <div class="col-md-4 text-right"><strong>Entry</strong><br/>
-                                        <span class="seventyfivepercent">Determines how the spokesperson enters the page.</span>
+                            <div class="col-lg-6">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <strong>Positioning on website</strong>
+                                        <div id="seventyfivepercent">**When choosing custom please provide specific instructions on where to place the video
+                                        </div>
                                     </div>
-                                    <div class="col-md-8">
-                                        <select name="Appearance" id="Appearance">
-                                            <option value="not specified" selected>Please Choose</option>
-                                            <option value="Walk in from left">Walk in from left side of screen</option>
-                                            <option value="Walk in from right">Walk in from right side of screen</option>
-                                            <option value="Standing">Standing</option>
-                                            <option value="Walking forward">Walking forward</option>
-                                            <option value="Custom">Custom - Please specifit in comments below</option>
+                                    <div class="col-md-6">
+                                        <select name="Positioning" id="Positioning">
+                                            <option value="not specified">Please Choose</option>
+                                            <option value="Bottom Left">Bottom Left</option>
+                                            <option value="Bottom Right" selected="selected">Bottom Right</option>
+                                            <option value="Bottom Center">Bottom Center</option>
+                                            <option value="Top Left">Top Left</option>
+                                            <option value="Top Right ">Top Right</option>
+                                            <option value="Top Center">Top Center</option>
+                                            <option value="Left Center">Left Center</option>
+                                            <option value="Center">Center</option>
+                                            <option value="Right Center">Right Center</option>
+                                            <option value="Custom">Custom</option>
                                         </select>
                                     </div>
-
-
-
-
-
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 text-right">
-                                    <div align="left"><strong>Preferred wardrobe </strong>
+                                <div class="row p-25">
+                                    <div class="col-md-3-offset col-md-6" valign="top"><strong>How the Actor is Shot</strong>
                                     </div>
-                                    <div id="seventyfivepercent">
-                                        <div align="left">(<em>business, casual, color preference, etc</em>.) Clothing choice limited to actor's wardrobe.</div>
+                                    <div class="col-md-6">
+                                        <label><input type="radio" name="BodyShot" value="Full Body" id="Body Shot_0">Full Body</label>
+                                        <label><input type="radio" name="BodyShot" value="Half Body" id="Body Shot_1">Half Body</label>
+                                        <label>
+                            <input type="radio" name="BodyShot" value="3/4 Body" id="Body Shot_2">
+                            3/4 Body</label>
+                                    
+
+
+
+
+                                    </div>
+                                    <!--//-----------------------------------------------------------------------size-->
+                                    <div class="row p-25">
+                                        <div class="col-md-6">
+                                            <strong>Size: </strong>
+                                            <div id="seventyfivepercent">
+                                                <div align="left">Our default size is 256x384 pixels for a full or 3/4 body. Our default size is 320x320 pixels for a half body. If you require a custom size please enter. If not please leave blank.</div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <label>Width
+                            <input type="text" name="Width" id="Width">
+                        </label>
+                                            <br>
+                                            <label>Height
+                            <input type="text" name="Height" id="Height">
+                        </label>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
-                                    <label>
-                            <textarea name="Wardrobe" cols="45" rows="5" id="Wardrobe" onKeyDown="if(event.keyCode==13) event.keyCode=9;"></textarea>
-                        </label>
-                                
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="row m-25">
+                                    <div class="col-md-6 text-right"><strong>Autostart</strong><br/>
+                                        <span class="seventyfivepercent">Determines how the player starts playing the video.</span>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <select name="Autostart" class="form-control" id="Autostart">
+                                            <option value="Autostart">Autostart</option>
+                                            <option value="Click to Play-Image">Click to Play-Image</option>
+                                            <option value="Click to Play-Mute">Click to Play-Mute</option>
+                                            <option value="Once then Image">Once then Image</option>
+                                            <option value="Once then Mute">Once then Mute</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <!----------------------------------------------------------------------- Entry-->
+                                <div class="row m-25">
+                                    <div class="col-md-6 text-right">
+                                        <strong>Entry</strong>
+                                            <div class="seventyfivepercent">Determines how the spokesperson enters the page.</div>
+                                    </div>
+                                    <div class="col-md-6">
 
-
-
-
-
+                                        <select name="Appearance" id="Appearance">
+                                            <option value="not specified" selected>Please Choose</option>
+                                            <option value="Walk in from left">Walk in from left</option>
+                                            <option value="Walk in from right">Walk in from right</option>
+                                            <option value="Standing">Standing</option>
+                                            <option value="Walking forward">Walking forward</option>
+                                            <option value="Custom">Custom</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <!------------------------------------------------------------- wardrobe -->
+                                <div class="row">
+                                    <div class="col-md-6 text-right">
+                                        <div><strong>Preferred wardrobe </strong>
+                                        </div>
+                                        <div id="seventyfivepercent text-right">(<em>business, casual, color preference, etc</em>.) Clothing choice limited to actor's wardrobe.
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label>
+                            <textarea name="Wardrobe" id="Wardrobe" onKeyDown="if(event.keyCode==13) event.keyCode=9;"></textarea>
+                        </label></div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-md-4 text-right"><strong>Once per browser session*</strong>
-                                </div>
-                                <div class="col-md-8">
-                                    <label>
-                            <select name="OncePerSession" id="Once Per Session">
-                                <option value="Play every time" selected>Play every time.</option>
-                                <option value="Click to Play">Click to Play</option>
-                                <option value="Mute Click to Play">Mute Click to Play</option>
-                                <option value="Once Per Session">Once per session.</option>
-                                <option value="Once then Mute">Once then Mute.</option>
-                                <option value="Once then Image">Once then Image.</option>
-                                <option value="Once Only">Once Only</option>
-                            </select>
-                        </label>
-                                
+                        </div>
 
 
 
 
-                                    <div id="seventyfivepercent">*Once Per Session means that a video will play once and not play again until the user closes and restarts the browser.</div>
-
-                                </div>
+                        <div class="row">
+                            <div class="col-md-4 text-right"><strong>Preferred completion date</strong>
                             </div>
-                            <div class="row">
-                                <div class="col-md-4 text-right"><strong>Preferred completion date</strong>
-                                </div>
-                                <div class="col-md-8">
-                                    <label>
+                            <div class="col-md-8">
+                                <label>
                             <input name="CompletionDate" type="text" id="Completion Date" onKeyDown="if(event.keyCode==13) event.keyCode=9;" value="5 working days">
                         </label>
-                                
+                            
 
-                                </div>
+
+
+
                             </div>
                         </div>
                     </div>
@@ -280,10 +266,9 @@
                 </div>
                 <div class="m-25">
                     <input class="center-block" type="submit" name="submit" id="submit" value="Submit">
-                    <div class="text-center text-warning">By Clicking Submit you agree to all Terms and Conditions.</div>
+                    <h2 class="text-center text-warning no-shadow">By Clicking Submit you agree to all Terms and Conditions.</h2>
                 </div>
-        </div>
-        </form>
+            </form>
         </div>
     </section>
     <div class="container-fluid m-25 alert-danger p-25">
