@@ -20,9 +20,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
     <link href="/css/style.css?v=<?php echo rand(1,100); ?>" rel="stylesheet" type="text/css"/>
-    <link href="../css/examples.css" rel="stylesheet" type="text/css"/>
-    <script src="//use.typekit.net/dib0cib.js"></script>
     <link href="/css/fluid.css" rel="stylesheet" type="text/css"/>
+    <script src="//use.typekit.net/dib0cib.js"></script>
     <script>
         try {
             Typekit.load();
@@ -31,13 +30,12 @@
 </head>
 
 <body>
-    <?php include ('../includes/header.php'); ?>
+    <?php include ('../../includes/header.php'); ?>
     <section class="container">
-        <h1>Whiteboard</h1>
         <?php
         require( "connect.php" );
-        $table = "whiteboard";
-
+        $table = $_GET["table"];
+        echo '<h1 class="text-uppercase">'. $table . '</h1>';
         $sql = "SELECT * FROM " . $table;
         $sql .= " ORDER BY list_order";
         $result = $conn->query( $sql );
@@ -86,7 +84,7 @@
         echo PHP_EOL;
         ?>
     </section>
-    <?php include ('../includes/footer.php'); ?>
+    <?php include ('../../includes/footer.php'); ?>
 </body>
 
 </html>
