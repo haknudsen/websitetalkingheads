@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <?php include ('../includes/header.php'); ?>
+    <?php include ('https://www.websitetalkingheads.com/includes/header.php'); ?>
     <section class="container">
         <h1>Database Update</h1>
         <?php 
@@ -34,7 +34,7 @@
     </section>
     <section class="container">
         <div class="center-block">
-            <a href="database-whiteboard.php">
+            <a href="index.php">
 <button class="btn btn-success m-25">Return</button>
 </a>
         
