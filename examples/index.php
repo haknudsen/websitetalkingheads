@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Website Talking Heads&reg; | Examples Page</title>
   <meta name="keywords" content="online spokesperson, video spokesperson, website talking heads, website actor, website video, transparent flash, virtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
-  <meta name="description" content="Here are examples of the many types of videos we can make for you.  Use a Website Spokesperson to greet visitors to your site.  If you are a professional video developer you can use one of our Professional Spokespeople in your next internet video project.  Use a Custom Video Presentation to demonstrate your product.  Use a whiteboard or animation video to show your process or service.">
+  <meta name="description" content="Here are examples of the many types of videos Website Talking Heads&reg creates. Use a Website Spokesperson to greet visitors to your site.  If you are a professional video developer you can use one of our Professional Spokespeople in your next internet video project.  Use a Custom Video Presentation to demonstrate your product.  Use a whiteboard or animation video to show your process or service.">
   <meta name="robots" CONTENT="index, follow">
   <!-- (Robot commands: All, None, Index, No Index, Follow, No Follow) -->
   <meta name="revisit-after" CONTENT="30 days">
@@ -129,7 +129,7 @@
             <p>Not surprisingly, not all whiteboard videos are identical, so, we help you to create the most effective whiteboard video for a company.</p>
             <p>Your company offers a solution to your clients, but sometimes that solution or product needs some explaining.</p>
             <p>A <a href="../whiteboard/">Whiteboard Video</a> from Talking Heads<sup>&reg;</sup> helps savvy online marketers or companies to get their message across in a powerful and convincing way.</p>
-            <p>With Talking Heads you don't just get whiteboard sketch videos. We get spent years studying the art work of persuasion and communication. Your story ought to be told well by professionals. So we have gathered a team of artists and video professionas and we collaborate with you to create your script and customize the images that will be used in your video.</p>
+            <p>With Talking Heads<sup>&reg;</sup> you don't just get whiteboard sketch videos. We get spent years studying the art work of persuasion and communication. Your story ought to be told well by professionals. So we have gathered a team of artists and video professionas and we collaborate with you to create your script and customize the images that will be used in your video.</p>
             <p>You will end up with a video that tells your story, boosts leads, and increases sales in your product.</p>
           </div>
         </div>

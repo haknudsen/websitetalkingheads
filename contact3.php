@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <TITLE>Talking Heads|Contact us about Custom Website Video, Website Spokesperson, Whiteboard Video or Animation.</TITLE>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
-<meta name="keywords" content="Whiteboard video, Explainer Video, Animation, Sales video, online spokesperson, video spokesperson, website talking heads, website actor, website video, transparent flash, virtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
-<meta name="description" content="Contact us now to learn about how a Talking Heads video can help your business.  You can obtain a Website Spokesperson, Video Presentation, Whiteboard or Explainer Video.  Tell us what kind of video you want.">
+<meta name="keywords" content="Whiteboard video, Explainer Video, Animation, Sales video, online spokesperson, video spokesperson, website talking heads, website actor, website video, transparent video, virtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
+<meta name="description" content="Contact us now to learn about how a video from Website Talking Heads&reg; can help your business.  You can obtain a Website Spokesperson, Video Presentation, Whiteboard or Explainer Video.">
 <META NAME="robots" CONTENT="index, follow">
 <!-- (Robot commands: All, None, Index, No Index, Follow, No Follow) -->
 <META NAME="revisit-after" CONTENT="30 days">
@@ -29,7 +29,7 @@
 <div class="contactus col-md-6">
   <h1>Contact Information</h1>
   <h2>:: Mailing address ::</h2>
-  <h3> Website Talking Heads <br>
+  <h3> Website Talking Heads<sup>&reg;</sup><br>
     245 W. 9000 S. <br>
     Sandy, UT 84070 </h3>
   <h2>:: Phone :: </h2>

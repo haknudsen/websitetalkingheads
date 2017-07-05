@@ -3,9 +3,9 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>Website Talking Heads | Home of Video Solutions</title>
-    <meta name="keywords" content="HTML5, video, online spokesperson, video spokesperson, website talking heads, website actor, website video, transparent flash, virtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
-    <meta name="description" content="Website Talking Heads can create a Website Spokesperson, Video Presentation, Whiteboard or Explainer Video to meet your needs.  Here you will find out more about the types of videos we create here.  As well as a bit about our history, personalized approach and our professional video spokespeople">
+    <title>Website Talking Heads&reg;|Home of Video Solutions</title>
+    <meta name="keywords" content="HTML5, video, online spokesperson, video spokesperson, website talking heads, website actor, website video, transparent video, virtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
+    <meta name="description" content="Website Talking Heads® creates Website Spokesperson, Presentations, Whiteboard and Animation Videos.  We have almost 10 years experience in web video.">
     <meta name="robots" content="index, follow">
     <meta name="revisit-after" content="30 days">
     <meta name="rating" content="general">
@@ -38,7 +38,7 @@
             <div class="LogoColumn col-md-4">
                 <div class="row">
                     <h3 class="hidden">Better Business Rating A+</h3>
-                    <div><a id="bbblink" class="ruhzbul" href="https://www.bbb.org/utah/business-reviews/video-production-services/website-talking-heads-in-sandy-ut-13000968#bbbseal" data-toggle="tooltip" title="Website Talking Heads, Video Production Services, Sandy, UT"><img class="img img-responsive videoProduction" style="padding: 0px;max-width:200px; border: none" id="bbblinkimg" src="images/website-talking-heads-13000968.png"  alt="Website Talking Heads, Video Production Services, Sandy, UT" /></a>
+                    <div><a id="bbblink" class="ruhzbul" href="https://www.bbb.org/utah/business-reviews/video-production-services/website-talking-heads-in-sandy-ut-13000968#bbbseal" data-toggle="tooltip" title="Website Talking Heads<sup>&reg;</sup>, Video Production Services, Sandy, UT"><img class="img img-responsive videoProduction" style="padding: 0px;max-width:200px; border: none" id="bbblinkimg" src="images/website-talking-heads-13000968.png"  alt="Website Talking Heads, Video Production Services, Sandy, UT" /></a>
                     </div>
                 </div>
                 <div class="row">
@@ -63,7 +63,7 @@
     <section class="SpokespersonVideos container">
         <div class="row center-block">
             <h1>Need a Video Spokesperson?</h1>
-            <h2>We Offer 4 Kinds of Spokesperson Videos</h2>
+            <h2>Website Talking Heads<sup>&reg;</sup> Offers 4 Kinds of Spokesperson Videos</h2>
             <div class="video-types">
                 <div class="Product CustomPlayer">
                     <div class="product-top"> <a href="website-spokesperson/index.php"><img class="productimage center-block" src="images/WebsiteVideo.gif"  alt="Custom Video Player"/></a> </div>
@@ -261,6 +261,14 @@
     <?php include ('includes/footer.php'); ?>
     <?php include ('includes/chatform.php'); ?>
     <script>
+        var script = document.createElement( 'script' );
+        var prefix = document.location.protocol;
+        script.async = true;
+        script.type = 'text/javascript';
+        var target = prefix + '//app.clixtell.com/scripts/latest.js';
+        script.src = target;
+        var elem = document.head;
+        elem.appendChild( script );
         $( window ).load( function () {
             $( '.lightbox' ).lightbox();
             $( '[data-toggle="tooltip"]' ).tooltip();
