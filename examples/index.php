@@ -92,7 +92,7 @@
   </section>
   <section class="container">
     <div class="row custom-presentation example center-block">
-      <h2><a href="https://www.websitetalkingheads.com/videopresentations/custom-presentations.php">Video Presentation</a></h2>
+      <h2><a href="../videopresentations/custom-presentations.php">Video Presentation</a></h2>
       <div class="col-md-4  padding-ten">
         <div class="example-list">
           <ul>
@@ -102,7 +102,7 @@
             <li>Images, Text, Video</li>
           </ul>
           <div class="custom-video-description">
-            <p>When you choose one of our <a href="https://www.websitetalkingheads.com/videopresentations/custom-presentations.php">Custom Video Presentations</a> we enable you to deliver a direct, confident and clear message.</p>
+            <p>When you choose one of our <a href="../videopresentations/custom-presentations.php">Custom Video Presentations</a> we enable you to deliver a direct, confident and clear message.</p>
             <p>We will create the type of image you want to be associated with your business. For example, if your Custom Video Presentation is for a business that deals with surfboards, you would want the actor, colors, sounds and images to matche that image. The Spokesperson needs to be relatable to your target market. Can you imagine a man dressed in a sleek suit trying to sell surfboards?  You would also want the images to be of beachs, the ocean and surf and maybe some Reggae or Surf Music.</p>
             <p>We can create a Video Presentation that is a Product Demo, a Website Walk-through, Informational, Training or Sales Video. We put it all together and provide you a Full HD 1920X1080 video in MP4 format suitable to upload to YouTube, Facebook, or whatever video service you like.</p>
             <p>You can also add a <a href="../logo_reveals/">Logo Reveal</a> to Dynamically show off your logo.</p>
@@ -112,12 +112,12 @@
       <div class="col-md-8 center-block">
         <?php include ('video-presentations-examples.php'); ?>
       </div>
-      <div class="exampleFooter"><a href="https://www.websitetalkingheads.com/videopresentations/custompresentations.php">More...</a></div>
+      <div class="exampleFooter"><a href="../videopresentations/custompresentations.php">More...</a></div>
     </div>
   </section>
   <section class="container">
     <div class="row whiteboard-video example center-block">
-      <h2><a href="https://www.websitetalkingheads.com/whiteboard/index.php">Whiteboard Video</a></h2>
+      <h2><a href="../whiteboard/index.php">Whiteboard Video</a></h2>
       <div class="col-md-4  padding-ten">
         <div  class="example-list">
           <ul>
@@ -142,7 +142,7 @@
   </section>
   <section class="container">
     <div class="row animation example center-block">
-      <h2><a href="https://www.websitetalkingheads.com/videopresentations/animation.php">Animation Video</a></h2>
+      <h2><a href="../videopresentations/animation.php">Animation Video</a></h2>
       <div class="col-md-4  padding-ten">
         <div class="example-list">
           <ul>
