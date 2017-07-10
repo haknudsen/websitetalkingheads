@@ -50,6 +50,10 @@ body {
 
 }else{
     $page=file_get_contents($website);
+    $pos = stripos($page,'"css/');
+    echo $strpos($page,$pos);
+    $insertstr = $website.'/';
+    $page = substr($page, 0, $pos) . $insertstr . substr($page, $pos-1);
 }
 print_r( $page );
 ?>
