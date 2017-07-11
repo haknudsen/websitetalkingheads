@@ -40,20 +40,12 @@ body {
 <iframe src="';
     $page .= $website;
     $page .= '" frameborder="0" width="100%" height="2000" scrolling="No" id="theFrame" name="theFrame"></iframe>
-    <script>
-        window.onload = function () {
-            wthplayer();
-        }
-    </script>
 </body>
 </html>';
 
 }else{
-    $page=file_get_contents($website);
-    $pos = stripos($page,'"css/');
-    echo $strpos($page,$pos);
-    $insertstr = $website.'/';
-    $page = substr($page, 0, $pos) . $insertstr . substr($page, $pos-1);
+    $loc = 'location: http://www.talkingheads.video/demopage/show-http.php?loc=' . $website;
+    header ($loc);
 }
 print_r( $page );
 ?>
