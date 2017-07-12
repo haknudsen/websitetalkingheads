@@ -1,14 +1,4 @@
 <?php
-<<<<<<< HEAD
-$referersite = strtolower( $_SERVER[ 'HTTP_REFERER' ] );
-$url = $_REQUEST[ 'website' ];
-if ( preg_match( '#^https?://#i', $url ) === 1 ) {
-    $s = true;
-    $website = $url;
-} else {
-    $website = "http://" . $url;
-    $s = false;
-=======
 $s = "not used";
 $referersite = strtolower( $_SERVER[ 'HTTP_REFERER' ] );
 $url = $_REQUEST[ 'website' ];
@@ -18,7 +8,6 @@ if ( preg_match( '#^https?://#i', $url ) === 1 ) {
 } else {
     $website = "http://" . $url;
     $s = "http";
->>>>>>> demo page to v a0.2
 }
 if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED_FOR' ] != '' ) {
     $ip_address = $_SERVER[ 'HTTP_X_FORWARDED_FOR' ];
@@ -34,45 +23,71 @@ if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED
 //	$email_message .= "Website Demoed:" .$website. "<br>";
 //	$email_message .= "Viewed From: ".$ip_address."<br>";
 //	mail($to,$subject,$email_message,$headers);
-<<<<<<< HEAD
-if ( $s ) {
-    $page = '
-<!doctype html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Website Talking Heads</title>
-=======
-//echo($website);
-//echo("protocall = " . $s);
-if ( $s !== "http" ) {
-    $page = '
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Talking Heads Demo</title>
->>>>>>> demo page to v a0.2
-<style type="text/css">
-body {
-	padding: 0;
-	margin: 0;
-}
-</style>
-</head>
-<body>
-<script src="wthvideo/wthvideo.js"></script>
-<iframe src="';
-    $page .= $website;
-    $page .= '" frameborder="0" width="100%" height="2000" scrolling="No" id="theFrame" name="theFrame"></iframe>
-</body>
-</html>';
-<<<<<<< HEAD
 
-=======
->>>>>>> demo page to v a0.2
-}else{
+if ( $s !== "http" ) {
+    $page = file_get_contents( $website );
+    if ( $utf ) {
+        $page = '<!doctype html>
+            <html>
+            <head>
+            <meta charset="utf-8">
+            <title>Talking Heads Demo</title>
+            <style type="text/css">
+            body {
+                padding: 0;
+                margin: 0;
+            }
+            </style>
+            </head>
+            <body>
+            <script src="wthvideo/wthvideo.js"></script>
+            <iframe src="';
+                    $page .= $website;
+                    $page .= '" frameborder="0" width="100%" height="2000" scrolling="No" id="theFrame" name="theFrame"></iframe>
+            </body>
+            </html>';
+    } else {
+        $page = '
+            <!doctype html>
+            <html>
+            <head>
+            <meta charset="utf-8">
+            <title>Talking Heads Demo</title>
+            <style type="text/css">
+            body {
+                padding: 0;
+                margin: 0;
+            }
+            </style>
+            </head>
+            <body>
+            <h1 style="text-align:center">Requested page is blocking iFrame</h1>
+            <script src="wthvideo/wthvideo.js"></script>
+            </body>
+            </html>';
+
+    }
+} else {
     $loc = 'location: http://www.talkingheads.video/demopage/show-http.php?loc=' . $website;
-    header ($loc);
+    header( $loc );
 }
 print_r( $page );
+
+function is_Utf8( $string ) {
+    if ( function_exists( "mb_check_encoding" ) && is_callable( "mb_check_encoding" ) ) {
+        return mb_check_encoding( $string, 'UTF8' );
+    }
+
+    return preg_match( '%^(?:
+          [\x09\x0A\x0D\x20-\x7E]            # ASCII
+        | [\xC2-\xDF][\x80-\xBF]             # non-overlong 2-byte
+        |  \xE0[\xA0-\xBF][\x80-\xBF]        # excluding overlongs
+        | [\xE1-\xEC\xEE\xEF][\x80-\xBF]{2}  # straight 3-byte
+        |  \xED[\x80-\x9F][\x80-\xBF]        # excluding surrogates
+        |  \xF0[\x90-\xBF][\x80-\xBF]{2}     # planes 1-3
+        | [\xF1-\xF3][\x80-\xBF]{3}          # planes 4-15
+        |  \xF4[\x80-\x8F][\x80-\xBF]{2}     # plane 16
+    )*$%xs', $string );
+
+}
 ?>

@@ -28,8 +28,8 @@ function wthplayer() {
         controlbar = "mouse", //options for showing the controlbar, yes, no, and mouse
         playbtn = "click-to-play.png", //you can set a custom playbuton
 		exitbtn = "yes",//show or not show exitbtn
-        autostart= "oncethenmute",//autostart options yes, no, mute, oncethenpic, oncethenmute, onceonlythenpic, onceonlythenmute, and loop
-        exitoncomplete = "yes", //option for player to close after video completes. "yes" or "no"
+        autostart= "yes",//autostart options yes, no, mute, oncethenpic, oncethenmute, onceonlythenpic, onceonlythenmute, and loop
+        exitoncomplete = "no", //option for player to close after video completes. "yes" or "no"
         oncepersession = "no", //option for number of times video plays "yes", "no", or "onceonly"
         vidLink = "", //make the Talking Heads Player a link. Either leave this set to "no" or you can put a complete URL inside the quotes.
         openIn = "_blank",
