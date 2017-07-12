@@ -23,12 +23,19 @@ $email_message .= "Viewed From: " . $ip_address . "<br>";
 mail( $to, $subject, $email_message, $headers );
 
 ?>
+<<<<<<< HEAD
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+=======
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+>>>>>>> demo page to v a0.2
     <title>Website Talking Heads</title>
     <style type="text/css">
         body {
@@ -41,11 +48,14 @@ mail( $to, $subject, $email_message, $headers );
 <body>
     <iframe src="<?php echo($website)?>" frameborder="0" width="100%" height="2000" scrolling="No" id="theFrame" name="theFrame"></iframe>
     <script type="text/javascript" src="wthvideo/wthvideo.js"></script>
+<<<<<<< HEAD
     <script>
         window.onload = function () {
             console.log( 'loaded' );
             wthplayer();
         }
     </script>
+=======
+>>>>>>> demo page to v a0.2
     </body>
 </html>
