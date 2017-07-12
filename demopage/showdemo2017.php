@@ -61,7 +61,10 @@ if ( $s !== "http" ) {
             </style>
             </head>
             <body>
-            <h1 style="text-align:center">Requested page is blocking iFrame</h1>
+            <h1 style="text-align:center">The page you entered does not let us display a copy of it.</h1>
+            <h2 style="text-align:center">Not Problem.</h2>
+            <h2 style="text-align:center">A real spokesperson will work on your REAL website.</h2>
+            <h3 style="text-align:center">Call us to learn more: <a href="tel:8017482281" title="Call Now">801-748-2281</a></h3>
             <script src="wthvideo/wthvideo.js"></script>
             </body>
             </html>';
