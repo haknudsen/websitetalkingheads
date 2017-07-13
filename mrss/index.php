@@ -22,7 +22,7 @@
 <div id="container">
   <div align="center">
     <?php include ('../includes/header.php'); ?>
-    <h1>Our mRSS Feeds</h1><img src="../feed-icon-28x28.png" width="28" height="28" alt="RSS Feed"/>
+    <h1>Our mRSS Feeds</h1><img src="images/Talking-Heads-RSS-Feed.png" width="28" height="28" alt="RSS Feed"/>
   </div>
   <ul class="feed-list">
     <li><a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCKV3naM0IK4nbPDoUR1Yu7A">WTH Video Production YouTube Feed</a></li>
