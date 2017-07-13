@@ -120,7 +120,7 @@
             <div class="banner-bottom-text">Hand Drawing Videos, Whiteboard Animation Videos, Whiteboard Sketch, Video Scribe and Cartoon Doodle Videos.</div>
             <div class="content-text">Obviously, not all whiteboard style videos are alike, so,we work with you to create the best whiteboard video for your company. We focus on supercharged messages utilizing a hand drawn whiteboard commercials for that triggers focus and engagement That's where we come in. We create high impact, exciting whiteboard illustrator VIDEOS that explain your product, service, software or business.</div>
             <div class="examples">
-                <?php include ('../examples/whiteboard.php'); ?>
+                <?php include ('../examples/whiteboard-full.php'); ?>
                 <div class="c"></div>
             </div>
             <div class="c"></div>

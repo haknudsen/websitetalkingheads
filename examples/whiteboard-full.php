@@ -20,7 +20,7 @@ while($row = $result->fetch_assoc()) {
     echo '</div>';
     echo PHP_EOL;
     $x = $x + 1;
-    if ( $x == 10 ) {
+    if ( $x == 19 ) {
         break;
     }
      }
