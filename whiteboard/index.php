@@ -102,6 +102,7 @@
 
 
 
+
                                 </div>
                             </div>
                         </fieldset>
@@ -124,9 +125,15 @@
                 <div class="c"></div>
             </div>
             <div class="c"></div>
-            <div id="exampleLine"></div>
+            <div class="exaple-button alert-grey text-center">
+                <h3>Animation Videos</h3>
+                <h3><a href="../videopresentations/animation.php">More Examples</a></h3>
+            </div>
             <div class="examples">
-                <?php include ('../videopresentations/includes/examples-whiteboard-animations.php'); ?>
+                <?php
+                $count = 3;
+                include( '../examples/animation-examples.php' );
+                ?>
                 <div class="c"></div>
             </div>
             <div class="video-bottom"></div>

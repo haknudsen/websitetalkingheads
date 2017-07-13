@@ -183,3 +183,6 @@ dd{padding-top:0;padding-bottom:2px;font-size:16px}
 .special{max-width:230px;margin:0 auto}
 .special-img{max-width:228px;margin:0 auto;background:transparent}
 .img-choose{margin: 10px auto}
+.alert-grey{background-color: #B3C8DB;color:black;border: thin solid #B8B8B8}
+.exaple-button{width: 40%;margin: 0 auto;border-radius: 20px;border-bottom-color: #85A6C5}
+.exaple-button h3{margin: 10px auto}
