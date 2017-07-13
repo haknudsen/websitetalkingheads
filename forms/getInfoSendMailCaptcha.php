@@ -11,7 +11,8 @@ $name= $_REQUEST['lastname'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
 $company = $_REQUEST['company'];
-$message = htmlspecialchars($_REQUEST['description']);
+$message = htmlentities($_REQUEST['description'] );
+echo($message);
 $cf_1001 = $_REQUEST['cf_1001'];
 if(isset($_SERVER['HTTP_X_FORWARDED_FOR']) && $_SERVER['HTTP_X_FORWARTDED_FOR'] != '') {
     $sentIP = $_SERVER['HTTP_X_FORWARDED_FOR'];
@@ -50,5 +51,5 @@ $pageContent .= "'
 <script>document.getElementById('__vtigerWebForm').submit();</script>";
 }
 }
-echo $pageContent;
+//echo $pageContent;
 ?>
