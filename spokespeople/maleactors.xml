@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<carousel xr="400" yr="70" xc="150" yc="300" perspective="50" vx="455" vy="182" reflection="0" speed=".004" videowidth="540" videoheight="360" captioncol="0x0088AA" captionfont="Arial">
+	<item caption="Derek"/>
+	<item caption="Jed"/>
+	<item caption="Joey"/>
+	<item caption="Brad"/>
+	<item caption="Daniel"/>
+	<item caption="Jeff"/>
+	<item caption="Randall"/>
+	<item caption="Mike"/>
+	<item caption="TerryG"/>
+	<item caption="Michael"/>
+	<item caption="Ben"/>
+	<item caption="Walt"/>
+	<item caption="Jack"/>
+	<item caption="Lonzo"/>
+	<item caption="Ron"/>
+	<item caption="Steven"/>
+	<item caption="Brenden"/>
+</carousel>
