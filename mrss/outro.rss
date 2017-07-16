@@ -5,7 +5,7 @@
 	<description>Take a look at the outros we can create for your YouTube channel.  Drive more traffic to your channel and website with a YouTube outro.</description>
 	<image>
     	<url>http://websitetalkingheads.com/images/WTH-logo.png</url>
-    	<title>WebsiteTalkingHeads.com</title>
+    	<title>WebsiteTalkingHeads.com YouTube Outros</title>
     	<link>http://www.websitetalkingheads.com</link>
   </image>
 	<item>
@@ -31,11 +31,11 @@
 <item>
 	<title>Custom Video - Universal version 2</title>
 	<link>http://websitetalkingheads.com/youtube-outros/</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/MM1wrC_FvqM/mqdefault.jpg" />]]>Universal version 2 is an example of our YouTube outros.</description>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/9sS5BR9iX48/mqdefault.jpg" />]]>Universal version 2 is an example of our YouTube outros.</description>
 	<media:title>Universal version 2</media:title>
 	<media:description>Universal version 2 is another example of our YouTube outros.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/MM1wrC_FvqM/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=MM1wrC_FvqM" medium="video" height="1920" width="1080">
+	<media:thumbnail url="http://img.youtube.com/vi/9sS5BR9iX48/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=9sS5BR9iX48" medium="video" height="1920" width="1080">
 	</media:content>
 </item>
 <item>
@@ -141,11 +141,11 @@
 <item>
 	<title>Custom Video - Universal Version 5</title>
 	<link>http://websitetalkingheads.com/youtube-outros/</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/VCtHgatyzgM/mqdefault.jpg" />]]>Universal Version 5 is an example of our YouTube outros.</description>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/SdM5xdfrZbw/mqdefault.jpg" />]]>Universal Version 5 is an example of our YouTube outros.</description>
 	<media:title>Universal Version 5</media:title>
 	<media:description>Universal Version 5 is another example of our YouTube outros.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/VCtHgatyzgM/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=VCtHgatyzgM" medium="video" height="1920" width="1080">
+	<media:thumbnail url="http://img.youtube.com/vi/SdM5xdfrZbw/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=SdM5xdfrZbw" medium="video" height="1920" width="1080">
 	</media:content>
 </item>
 </channel>

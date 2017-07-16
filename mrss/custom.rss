@@ -1,211 +1,210 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-	<title>Custom Videos</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description>Check out our — Custom Video Presentations.  Our Custom Video Presentations use images, video, sound, text and a professional video spokesperson. We can create a Video Presentation that is a Product Demonstration, a Website Walk-through, Informational, Training or Sales Video. We put it all together and provide you a Full HD 1920X1080 video in MP4 format suitable to upload to YouTube, Vimeo, Facebook.Twitter, Instagram, Dailymotion, Vevo, Metacafe, Flickr, whatever video service you like.</description>
+	<title>Custom names</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description>When you choose one of our Custom Video Presentations we enable you to deliver a direct, confident and clear message.
+We will create the type of image you want to be associated with your business. For example, if your Custom Video Presentation is for a business that deals with surfboards, you would want the actor, colors, sounds and images to matche that image. The Spokesperson needs to be relatable to your target market. Can you imagine a man dressed in a sleek suit trying to sell surfboards? You would also want the images to be of beachs, the ocean and surf and maybe some Reggae or Surf Music.</description>
 	<image>
     	<url>http://websitetalkingheads.com/images/WTH-logo.png</url>
     	<title>WebsiteTalkingHeads.com</title>
     	<link>http://www.websitetalkingheads.com</link>
   </image>
-	<item>
-	<title>Custom Video - Quote Zoom</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/ozwgqkGubFo/mqdefault.jpg" />]]>Quote Zoom is an example of our Custom Videos.</description>
-	<media:title>Quote Zoom</media:title>
-	<media:description>Quote Zoom is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/ozwgqkGubFo/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=ozwgqkGubFo" medium="video" height="1920" width="1080">
+	
+<item>
+	<title>Custom Presentation - Animated Phone</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/_PzG2w8-Stw/mqdefault.jpg" />]]>Animated Phone is an example of our Custom Presentations.  Having one of our skillful spokes-models in your video  will make your video more inviting and visitors are likely to spend more time on your  web page.</description>
+	<media:title>Animated Phone</media:title>
+	<media:description>Animated Phone is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/_PzG2w8-Stw/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=_PzG2w8-Stw" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Health Aviator</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/NicTjhTRL9E/mqdefault.jpg" />]]>Health Aviator is an example of our Custom Videos.</description>
-	<media:title>Health Aviator</media:title>
-	<media:description>Health Aviator is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/NicTjhTRL9E/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=NicTjhTRL9E" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Bower's Electric</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/fA7DibExzHE/mqdefault.jpg" />]]>Bower's Electric is an example of our Custom Presentations.  Your Custom video Presentation  Talking Heads® can convey a quick and clear message to a wide gathering of families and focus watchers upon something specific. An outwardly engaging video is a nice approach to exhibit items or brand and require client experience to an a great deal more intuitive level. Consequently, wealthy, innovative and engaging videos tend to be ending up famous at this moment. </description>
+	<media:title>Bower's Electric</media:title>
+	<media:description>Bower's Electric is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/fA7DibExzHE/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=fA7DibExzHE" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - SkinIt</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/HgJJy8YVs78/mqdefault.jpg" />]]>SkinIt is an example of our Custom Videos.</description>
-	<media:title>SkinIt</media:title>
-	<media:description>SkinIt is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/HgJJy8YVs78/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=HgJJy8YVs78" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Bullied in Classroom</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/mL9-SrRAjoA/mqdefault.jpg" />]]>Bullied in Classroom is an example of our Custom Presentations.  Our Custom Video Presentations utilize pictures, video, sound, content and an expert video spokesperson. We put it together and give you a Full HD 1920X1080 video in MP4 format that you can post on YouTube, Vimeo, Facebook. Twitter, Instagram, Dailymotion, Vevo, Metacafe, Flickr...any social media platform.</description>
+	<media:title>Bullied in Classroom</media:title>
+	<media:description>Bullied in Classroom is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/mL9-SrRAjoA/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=mL9-SrRAjoA" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - PhotoPog</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/2L3z2Enwf-I/mqdefault.jpg" />]]>PhotoPog is an example of our Custom Videos.</description>
-	<media:title>PhotoPog</media:title>
-	<media:description>PhotoPog is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/2L3z2Enwf-I/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=2L3z2Enwf-I" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Client Notice</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/h26ag1Qpvrs/mqdefault.jpg" />]]>Client Notice is an example of our Custom Presentations.  At Talking Heads Video We know all corporations will not be alike, so, we get the job done along with you to help make the very best movie to your Business. You present an answer in your buyers, nonetheless From time to time that arrangement or product requirements some clarifying. Which is where we are available. We make very efficient, energizing VIDEOS that explain your merchandise, Business, Site or small business.</description>
+	<media:title>Client Notice</media:title>
+	<media:description>Client Notice is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/h26ag1Qpvrs/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=h26ag1Qpvrs" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Rally Up</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/SchZbbv90BI/mqdefault.jpg" />]]>Rally Up is an example of our Custom Videos.</description>
-	<media:title>Rally Up</media:title>
-	<media:description>Rally Up is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/SchZbbv90BI/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=SchZbbv90BI" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Doc Prep</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/81mI5KraWn0/mqdefault.jpg" />]]>Doc Prep is an example of our Custom Presentations.  At Talking Heads Video We all know all organizations are not alike, so, we function along with you to generate the top video clip in your Firm. You offer you an answer in your consumers, however Now and again that arrangement or product requires some clarifying. Which is in which we can be found in. We make extremely efficient, energizing Video clips that clarify your item, Group, Site or company.</description>
+	<media:title>Doc Prep</media:title>
+	<media:description>Doc Prep is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/81mI5KraWn0/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=81mI5KraWn0" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Give Back Mail</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/az4_FocFjdw/mqdefault.jpg" />]]>Give Back Mail is an example of our Custom Videos.</description>
-	<media:title>Give Back Mail</media:title>
-	<media:description>Give Back Mail is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/az4_FocFjdw/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=az4_FocFjdw" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Entrepreneurs Network</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/mN9cMEnBG6k/mqdefault.jpg" />]]>Entrepreneurs Network is an example of our Custom Presentations.  Your Custom video Presentation  Talking Heads® can convey a and clear message to the wide gathering of consumers and focus watchers with something specific. An outwardly engaging video is a great approach to exhibit a product or service or brand and take client experience to an far more intuitive level. Consequently, vibrant, innovative and engaging videos usually are ending up famous now. </description>
+	<media:title>Entrepreneurs Network</media:title>
+	<media:description>Entrepreneurs Network is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/mN9cMEnBG6k/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=mN9cMEnBG6k" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Yell Band</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/5LuCB2Mn0Y8/mqdefault.jpg" />]]>Yell Band is an example of our Custom Videos.</description>
-	<media:title>Yell Band</media:title>
-	<media:description>Yell Band is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/5LuCB2Mn0Y8/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=5LuCB2Mn0Y8" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Five Star Solutions</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/EEQplZuYclU/mqdefault.jpg" />]]>Five Star Solutions is an example of our Custom Presentations.  Having one of our polished online spokespeople in your video  will make your video more inviting and viewers are likely to spend greater time on your  website.</description>
+	<media:title>Five Star Solutions</media:title>
+	<media:description>Five Star Solutions is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/EEQplZuYclU/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=EEQplZuYclU" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Rig Nation</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/Kk9NaW68Nbg/mqdefault.jpg" />]]>Rig Nation is an example of our Custom Videos.</description>
-	<media:title>Rig Nation</media:title>
-	<media:description>Rig Nation is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/Kk9NaW68Nbg/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=Kk9NaW68Nbg" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Healty Choices</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/563WIYb1DCk/mqdefault.jpg" />]]>Healty Choices is an example of our Custom Presentations.  Your Custom video Presentation coming from Talking Heads® can convey an on the spot and clear message to your wide gathering of persons and focus watchers upon something specific. An outwardly engaging video is an effective approach to exhibit a service or brand and take client experience to an considerably more intuitive level. Consequently, wealthy, innovative and engaging videos can be ending up famous at this moment. </description>
+	<media:title>Healty Choices</media:title>
+	<media:description>Healty Choices is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/563WIYb1DCk/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=563WIYb1DCk" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Mobanu</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/DZ-p7wTdcRE/mqdefault.jpg" />]]>Mobanu is an example of our Custom Videos.</description>
-	<media:title>Mobanu</media:title>
-	<media:description>Mobanu is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/DZ-p7wTdcRE/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=DZ-p7wTdcRE" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - ITC Consultancy</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/aMKQK40hWIg/mqdefault.jpg" />]]>ITC Consultancy is an example of our Custom Presentations.  With our|With|With the|Using|With this} Custom video Presentations you aquire a video Spokesperson, Professional editing, Motion Graphics Compositing, along with Images and Effects. Incredible for your website Demonstration, Sales video, or Product Walk-though.</description>
+	<media:title>ITC Consultancy</media:title>
+	<media:description>ITC Consultancy is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/aMKQK40hWIg/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=aMKQK40hWIg" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - HVAC</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/vmaeUaWEB6k/mqdefault.jpg" />]]>HVAC is an example of our Custom Videos.</description>
-	<media:title>HVAC</media:title>
-	<media:description>HVAC is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/vmaeUaWEB6k/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=vmaeUaWEB6k" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Jet Solution</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/X4chzs0ZE2Q/mqdefault.jpg" />]]>Jet Solution is an example of our Custom Presentations.  Having one of our experienced web presenters in your video  will make your video more inviting and viewers are likely to spend more time on your  site.</description>
+	<media:title>Jet Solution</media:title>
+	<media:description>Jet Solution is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/X4chzs0ZE2Q/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=X4chzs0ZE2Q" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Shale Consultants</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/Kzzv43AJEDM/mqdefault.jpg" />]]>Shale Consultants is an example of our Custom Videos.</description>
-	<media:title>Shale Consultants</media:title>
-	<media:description>Shale Consultants is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/Kzzv43AJEDM/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=Kzzv43AJEDM" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Mantel Mount</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/tNeeDsaSzv0/mqdefault.jpg" />]]>Mantel Mount is an example of our Custom Presentations.  A Custom video Presentation with Talking Heads® can convey an on the spot and clear message for a wide gathering of families and focus watchers at something specific. An outwardly engaging video is a nice approach to exhibit merchandise or brand and get client experience to an a great deal more intuitive level. Consequently, rich, innovative and engaging videos can be ending up famous at this stage. </description>
+	<media:title>Mantel Mount</media:title>
+	<media:description>Mantel Mount is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/tNeeDsaSzv0/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=tNeeDsaSzv0" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Balansera</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/nXY-Bf-MQJA/mqdefault.jpg" />]]>Balansera is an example of our Custom Videos.</description>
-	<media:title>Balansera</media:title>
-	<media:description>Balansera is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/nXY-Bf-MQJA/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=nXY-Bf-MQJA" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Reason to Believe</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/wK768Vm98j4/mqdefault.jpg" />]]>Reason to Believe is an example of our Custom Presentations.  Our Custom Video Presentations utilize pictures, video, sound, content and an expert video spokesperson. We put it all together and give you a Full HD 1920X1080 video in MP4 format you can post on YouTube, Vimeo, Facebook. Twitter, Instagram, Dailymotion, Vevo, Metacafe, Flickr...any social media platform.</description>
+	<media:title>Reason to Believe</media:title>
+	<media:description>Reason to Believe is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/wK768Vm98j4/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=wK768Vm98j4" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - InStone</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/rVO_x4JomqY/mqdefault.jpg" />]]>InStone is an example of our Custom Videos.</description>
-	<media:title>InStone</media:title>
-	<media:description>InStone is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/rVO_x4JomqY/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=rVO_x4JomqY" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Riding the School Bus</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/1AP13YBDeO0/mqdefault.jpg" />]]>Riding the School Bus is an example of our Custom Presentations.  Having one of our experienced person on website in your video  will make your video more persuasive and visitors are likely to spend greater time on your  site.</description>
+	<media:title>Riding the School Bus</media:title>
+	<media:description>Riding the School Bus is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/1AP13YBDeO0/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=1AP13YBDeO0" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Typobounty</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/UeviUTB5IE0/mqdefault.jpg" />]]>Typobounty is an example of our Custom Videos.</description>
-	<media:title>Typobounty</media:title>
-	<media:description>Typobounty is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/UeviUTB5IE0/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=UeviUTB5IE0" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Ring A Rush Delivery</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/Y0JQNT_eq2c/mqdefault.jpg" />]]>Ring A Rush Delivery is an example of our Custom Presentations.  Your Custom video Presentation coming from Talking Heads® can convey a direct and clear message to the wide gathering of families and focus watchers with something specific. An outwardly engaging video is an effective approach to exhibit merchandise or brand and acquire client experience to an considerably more intuitive level. Consequently, wealthy, innovative and engaging videos tend to be ending up famous at this point. </description>
+	<media:title>Ring A Rush Delivery</media:title>
+	<media:description>Ring A Rush Delivery is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/Y0JQNT_eq2c/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=Y0JQNT_eq2c" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Global Call Forwarding</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/76sh_8M7LKM/mqdefault.jpg" />]]>Global Call Forwarding is an example of our Custom Videos.</description>
-	<media:title>Global Call Forwarding</media:title>
-	<media:description>Global Call Forwarding is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/76sh_8M7LKM/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=76sh_8M7LKM" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Ring A Rush Driver</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/9cF8lax1Kh4/mqdefault.jpg" />]]>Ring A Rush Driver is an example of our Custom Presentations.  With our|With|With the|Using|With this} Custom video Presentations you will get a video Spokesperson, Skilled editing, Motion Graphics Compositing, in addition to Images and Effects. Incredible to your website Demonstration, Sales video, or Product Walk-though.</description>
+	<media:title>Ring A Rush Driver</media:title>
+	<media:description>Ring A Rush Driver is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/9cF8lax1Kh4/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=9cF8lax1Kh4" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Benefit Together</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/Uvl0v4-P5Mk/mqdefault.jpg" />]]>Benefit Together is an example of our Custom Videos.</description>
-	<media:title>Benefit Together</media:title>
-	<media:description>Benefit Together is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/Uvl0v4-P5Mk/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=Uvl0v4-P5Mk" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Stadium Animation</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/jrKeb2W--EM/mqdefault.jpg" />]]>Stadium Animation is an example of our Custom Presentations.  A Custom video Presentation coming from Talking Heads® can convey a direct and clear message to your wide gathering of persons and focus watchers at something specific. An outwardly engaging video is an effective approach to exhibit an item or brand and get client experience to an far more intuitive level. Consequently, loaded, innovative and engaging videos are generally ending up famous at this point. </description>
+	<media:title>Stadium Animation</media:title>
+	<media:description>Stadium Animation is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/jrKeb2W--EM/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=jrKeb2W--EM" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - Firstcom</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/d552Jawpdi8/mqdefault.jpg" />]]>Firstcom is an example of our Custom Videos.</description>
-	<media:title>Firstcom</media:title>
-	<media:description>Firstcom is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/d552Jawpdi8/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=d552Jawpdi8" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - Thing A Ma Bob</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/01AECkTT41g/mqdefault.jpg" />]]>Thing A Ma Bob is an example of our Custom Presentations.  A Custom video Presentation out of Talking Heads® can convey an immediate and clear message to your wide gathering of persons and focus watchers upon something specific. An outwardly engaging video is a nice approach to exhibit an item or brand and get client experience to an a great deal more intuitive level. Consequently, loaded, innovative and engaging videos are ending up famous at this stage. </description>
+	<media:title>Thing A Ma Bob</media:title>
+	<media:description>Thing A Ma Bob is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/01AECkTT41g/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=01AECkTT41g" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
+
 <item>
-	<title>Custom Video - AC Royalties</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/D1yucsRqmgs/mqdefault.jpg" />]]>AC Royalties is an example of our Custom Videos.</description>
-	<media:title>AC Royalties</media:title>
-	<media:description>AC Royalties is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/D1yucsRqmgs/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=D1yucsRqmgs" medium="video" height="1920" width="1080">
-	</media:content>
-</item>
-<item>
-	<title>Custom Video - Multosol IT</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/6N7xuVxdvqg/mqdefault.jpg" />]]>Multosol IT is an example of our Custom Videos.</description>
-	<media:title>Multosol IT</media:title>
-	<media:description>Multosol IT is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/6N7xuVxdvqg/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=6N7xuVxdvqg" medium="video" height="1920" width="1080">
-	</media:content>
-</item>
-<item>
-	<title>Custom Video - NY Inspection</title>
-	<link>http://www.websitetalkingheads.com/videopresentations/custompresentations.php</link>
-	<description><![CDATA[<img src="http://img.youtube.com/vi/8vSHkGYEqSM/mqdefault.jpg" />]]>NY Inspection is an example of our Custom Videos.</description>
-	<media:title>NY Inspection</media:title>
-	<media:description>NY Inspection is an example of our Custom Videos.</media:description>
-	<media:thumbnail url="http://img.youtube.com/vi/8vSHkGYEqSM/mqdefault.jpg" height="320" width="180"/>
-	<media:content url="http://www.youtube.com/watch?v=8vSHkGYEqSM" medium="video" height="1920" width="1080">
+	<title>Custom Presentation - WanderfulMedia</title>
+	<link>http://www.websitetalkingheads.com/namepresentations/custompresentations.php</link>
+	<description><![CDATA[<img src="http://img.youtube.com/vi/DR2C1mcpHIk/mqdefault.jpg" />]]>WanderfulMedia is an example of our Custom Presentations.  At Talking Heads Video We all know all businesses are certainly not alike, so, we do the job along with you for making the most effective online video on your Group. You provide an answer for your buyers, nevertheless Now and again that arrangement or merchandise desires some clarifying. That is definitely the place we are available in. We make very successful, energizing VIDEOS that make clear your product, Corporation, website or company.</description>
+	<media:title>WanderfulMedia</media:title>
+	<media:description>WanderfulMedia is an example of our Custom names.</media:description>
+	<media:thumbnail url="http://img.youtube.com/vi/DR2C1mcpHIk/mqdefault.jpg" height="320" width="180"/>
+	<media:content url="http://www.youtube.com/watch?v=DR2C1mcpHIk" medium="name" height="1920" width="1080">
 	</media:content>
 </item>
 </channel>

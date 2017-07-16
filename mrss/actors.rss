@@ -9,15 +9,6 @@
     	<link>http://www.websitetalkingheads.com</link>
   </image>
 	<item>
-		<title> Chantel</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Chantel.png" />]]>This is Chantel, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Chantel.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Chantel.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Chantel as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
 		<title> Maria</title>
 		<link>http://websitetalkingheads.com/spokespeople/female-carousel.php</link>
 		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Maria.png" />]]>This is Maria, one of our Professional Spokespeople</description>
@@ -27,21 +18,21 @@
 		</media:content>
 	</item>
 	<item>
+		<title> Marissa</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Marissa.png" />]]>This is Marissa, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Marissa.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Marissa.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Marissa as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
 		<title> Shona</title>
 		<link>http://websitetalkingheads.com/spokespeople/female-carousel.php</link>
 		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Shona.png" />]]>This is Shona, one of our Professional Spokespeople</description>
 		<media:thumbnail url="http://websitetalkingheads.com/carimages/Shona.png" height="160" width="178"/>
 		<media:content url="http://websitetalkingheads.com/videos/Shona.mp4" medium="video" type="video/mp4" height="540" width="360">
 		<media:description>Choose Shona as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Melinda</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Melinda.png" />]]>This is Melinda, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Melinda.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Melinda.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Melinda as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
@@ -63,12 +54,12 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Brandy</title>
+		<title> Hilary</title>
 		<link>http://websitetalkingheads.com/spokespeople/female-carousel.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Brandy.png" />]]>This is Brandy, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Brandy.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Brandy.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Brandy as your Website Spokesperson</media:description>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Hilary.png" />]]>This is Hilary, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Hilary.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Hilary.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Hilary as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
@@ -153,6 +144,24 @@
 		</media:content>
 	</item>
 	<item>
+		<title> Chantel</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Chantel.png" />]]>This is Chantel, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Chantel.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Chantel.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Chantel as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Kelly</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Kelly.png" />]]>This is Kelly, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Kelly.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Kelly.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Kelly as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
 		<title> Derek</title>
 		<link>http://websitetalkingheads.com/spokespeople/male-carousel.php</link>
 		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Derek.png" />]]>This is Derek, one of our Professional Spokespeople</description>
@@ -195,15 +204,6 @@
 		<media:thumbnail url="http://websitetalkingheads.com/carimages/Daniel.png" height="160" width="178"/>
 		<media:content url="http://websitetalkingheads.com/videos/Daniel.mp4" medium="video" type="video/mp4" height="540" width="360">
 		<media:description>Choose Daniel as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Terry</title>
-		<link>http://websitetalkingheads.com/spokespeople/male-carousel.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Terry.png" />]]>This is Terry, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Terry.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Terry.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Terry as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
@@ -288,15 +288,6 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Aubrey</title>
-		<link>http://websitetalkingheads.com/spokespeople/male-carousel.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Aubrey.png" />]]>This is Aubrey, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Aubrey.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Aubrey.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Aubrey as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
 		<title> Ron</title>
 		<link>http://websitetalkingheads.com/spokespeople/male-carousel.php</link>
 		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Ron.png" />]]>This is Ron, one of our Professional Spokespeople</description>
@@ -306,12 +297,21 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Joshua</title>
+		<title> Steven</title>
 		<link>http://websitetalkingheads.com/spokespeople/male-carousel.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Joshua.png" />]]>This is Joshua, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Joshua.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Joshua.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Joshua as your Website Spokesperson</media:description>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Steven.png" />]]>This is Steven, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Steven.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Steven.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Steven as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Brenden</title>
+		<link>http://websitetalkingheads.com/spokespeople/male-carousel.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Brenden.png" />]]>This is Brenden, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Brenden.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Brenden.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Brenden as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
@@ -324,48 +324,12 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Rita</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Rita.png" />]]>This is Rita, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Rita.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Rita.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Rita as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Anna</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Anna.png" />]]>This is Anna, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Anna.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Anna.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Anna as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> LizS</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/LizS.png" />]]>This is LizS, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/LizS.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/LizS.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose LizS as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
 		<title> Elizabeth</title>
 		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
 		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Elizabeth.png" />]]>This is Elizabeth, one of our Professional Spokespeople</description>
 		<media:thumbnail url="http://websitetalkingheads.com/carimages/Elizabeth.png" height="160" width="178"/>
 		<media:content url="http://websitetalkingheads.com/videos/Elizabeth.mp4" medium="video" type="video/mp4" height="540" width="360">
 		<media:description>Choose Elizabeth as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Carly</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Carly.png" />]]>This is Carly, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Carly.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Carly.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Carly as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
@@ -387,39 +351,12 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Cory</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Cory.png" />]]>This is Cory, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Cory.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Cory.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Cory as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
 		<title> Jackie</title>
 		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
 		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Jackie.png" />]]>This is Jackie, one of our Professional Spokespeople</description>
 		<media:thumbnail url="http://websitetalkingheads.com/carimages/Jackie.png" height="160" width="178"/>
 		<media:content url="http://websitetalkingheads.com/videos/Jackie.mp4" medium="video" type="video/mp4" height="540" width="360">
 		<media:description>Choose Jackie as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Maria-Spanish</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Maria-Spanish.png" />]]>This is Maria-Spanish, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Maria-Spanish.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Maria-Spanish.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Maria-Spanish as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Thora</title>
-		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Thora.png" />]]>This is Thora, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Thora.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Thora.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Thora as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
@@ -459,17 +396,26 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Krystal</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Krystal.png" />]]>This is Krystal, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Krystal.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Krystal.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Krystal as your Website Spokesperson</media:description>
+		<title> Cydney</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Cydney.png" />]]>This is Cydney, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Cydney.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Cydney.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Cydney as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Brandy</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Brandy.png" />]]>This is Brandy, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Brandy.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Brandy.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Brandy as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
 		<title> Elise</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
 		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Elise.png" />]]>This is Elise, one of our Professional Spokespeople</description>
 		<media:thumbnail url="http://websitetalkingheads.com/carimages/Elise.png" height="160" width="178"/>
 		<media:content url="http://websitetalkingheads.com/videos/Elise.mp4" medium="video" type="video/mp4" height="540" width="360">
@@ -477,12 +423,39 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Wendy</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Wendy.png" />]]>This is Wendy, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Wendy.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Wendy.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Wendy as your Website Spokesperson</media:description>
+		<title> Tauni</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Tauni.png" />]]>This is Tauni, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Tauni.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Tauni.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Tauni as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Allison</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Allison.png" />]]>This is Allison, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Allison.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Allison.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Allison as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Krystal</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Krystal.png" />]]>This is Krystal, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Krystal.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Krystal.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Krystal as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Catlin</title>
+		<link>http://websitetalkingheads.com/spokespeople/female-carousel2.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Catlin.png" />]]>This is Catlin, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Catlin.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Catlin.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Catlin as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
@@ -495,66 +468,12 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Mariette</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Mariette.png" />]]>This is Mariette, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Mariette.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Mariette.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Mariette as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Lindsay</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Lindsay.png" />]]>This is Lindsay, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Lindsay.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Lindsay.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Lindsay as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
 		<title> Lena</title>
 		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
 		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Lena.png" />]]>This is Lena, one of our Professional Spokespeople</description>
 		<media:thumbnail url="http://websitetalkingheads.com/carimages/Lena.png" height="160" width="178"/>
 		<media:content url="http://websitetalkingheads.com/videos/Lena.mp4" medium="video" type="video/mp4" height="540" width="360">
 		<media:description>Choose Lena as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Steven</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Steven.png" />]]>This is Steven, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Steven.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Steven.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Steven as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Liz</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Liz.png" />]]>This is Liz, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Liz.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Liz.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Liz as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Cydney</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Cydney.png" />]]>This is Cydney, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Cydney.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Cydney.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Cydney as your Website Spokesperson</media:description>
-		</media:content>
-	</item>
-	<item>
-		<title> Paul</title>
-		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Paul.png" />]]>This is Paul, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Paul.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Paul.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Paul as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
@@ -567,21 +486,84 @@
 		</media:content>
 	</item>
 	<item>
-		<title> Tauni</title>
+		<title> Nora</title>
 		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Tauni.png" />]]>This is Tauni, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Tauni.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Tauni.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Tauni as your Website Spokesperson</media:description>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Nora.png" />]]>This is Nora, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Nora.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Nora.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Nora as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 	<item>
-		<title> Allison</title>
+		<title> Natalya</title>
 		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
-		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Allison.png" />]]>This is Allison, one of our Professional Spokespeople</description>
-		<media:thumbnail url="http://websitetalkingheads.com/carimages/Allison.png" height="160" width="178"/>
-		<media:content url="http://websitetalkingheads.com/videos/Allison.mp4" medium="video" type="video/mp4" height="540" width="360">
-		<media:description>Choose Allison as your Website Spokesperson</media:description>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Natalya.png" />]]>This is Natalya, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Natalya.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Natalya.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Natalya as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Shona</title>
+		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Shona.png" />]]>This is Shona, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Shona.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Shona.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Shona as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Maria-Spanish</title>
+		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Maria-Spanish.png" />]]>This is Maria-Spanish, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Maria-Spanish.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Maria-Spanish.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Maria-Spanish as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Marina</title>
+		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Marina.png" />]]>This is Marina, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Marina.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Marina.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Marina as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Brenden-Spanish</title>
+		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Brenden-Spanish.png" />]]>This is Brenden-Spanish, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Brenden-Spanish.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Brenden-Spanish.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Brenden-Spanish as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Cindy-Spanish</title>
+		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Cindy-Spanish.png" />]]>This is Cindy-Spanish, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Cindy-Spanish.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Cindy-Spanish.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Cindy-Spanish as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Tomasso-Italian</title>
+		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Tomasso-Italian.png" />]]>This is Tomasso-Italian, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Tomasso-Italian.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Tomasso-Italian.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Tomasso-Italian as your Website Spokesperson</media:description>
+		</media:content>
+	</item>
+	<item>
+		<title> Ernesto-Italian</title>
+		<link>http://websitetalkingheads.com/spokespeople/carousel4.php</link>
+		<description><![CDATA[<img src="http://websitetalkingheads.com/carimages/Ernesto-Italian.png" />]]>This is Ernesto-Italian, one of our Professional Spokespeople</description>
+		<media:thumbnail url="http://websitetalkingheads.com/carimages/Ernesto-Italian.png" height="160" width="178"/>
+		<media:content url="http://websitetalkingheads.com/videos/Ernesto-Italian.mp4" medium="video" type="video/mp4" height="540" width="360">
+		<media:description>Choose Ernesto-Italian as your Website Spokesperson</media:description>
 		</media:content>
 	</item>
 </channel>
