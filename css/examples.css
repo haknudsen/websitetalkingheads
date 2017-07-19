@@ -151,7 +151,8 @@ dd{padding-top:0;padding-bottom:2px;font-size:16px}
 .call a:link{text-align:center;font-size:48px;color:orange}
 .video-banner{margin-left:auto;margin-right:auto;width:98.626%;padding-left:.1869%;padding-right:.1869%;max-width:1032px}
 .video-presentations,.whiteboard-video,.animation,.basic-video,.green-screen-video{overflow:hidden;margin-top:4px}
-.animation-video-description,.website-spokesperson-description,.custom-video-description,.green-screen-video-description,.whiteboard-video-description,.basic-video-description{text-align:justify;font-size:1.2em;line-height:1.1em;margin:15px auto 0;border:2px solid rgba(120,140,255,1.00);background-color:#F5F6F8;border-radius:10px;padding:8px 8px 4px}
+.website-spokesperson-description,.custom-video-description,.green-screen-video-description,.whiteboard-video-description,.basic-video-description{text-align:justify;font-size:1.2em;line-height:1.1em;margin:15px auto 0;border:2px solid rgba(120,140,255,1.00);background-color:#F5F6F8;border-radius:10px;padding:8px 8px 4px}
+.animation-video-description{text-align:justify;font-size:1.4em;line-height:1.4em;margin:10px auto;border:2px solid rgba(120,140,255,1.00);background-color:#F5F6F8;border-radius:10px;padding:12px}
 .example-holder-web{width:33%;float:left;padding-left:10px;padding-right:10px}
 #example-text a{color:#000}
 #example-text a:hover{font-weight:bolder}
@@ -186,3 +187,8 @@ dd{padding-top:0;padding-bottom:2px;font-size:16px}
 .alert-grey{background-color: #B3C8DB;color:black;border: thin solid #B8B8B8}
 .exaple-button{width: 40%;margin: 0 auto;border-radius: 20px;border-bottom-color: #85A6C5}
 .exaple-button h3{margin: 10px auto}
+.media-left,.media-right,.media-body{width: 50%}
+.media-object{max-width: 100%}
+.media-body{font-size: 18px;padding-left: 10px}
+.media{margin-top:30px; border-bottom: thin solid #1981FF;padding-bottom: 20px}
+.media:first-child {border-top:  thin solid #1981FF;padding-top: 20px}
