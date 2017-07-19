@@ -42,16 +42,11 @@
                     </div>
                 </div>
                 <div class="row">
-                    <h4 class="pageinfo">#1 in Video Spokesperson</h4>
-                    <div class="col-sm-5 col-sm-offset-1"> <a href="#" data-toggle="tooltip" title="#1 in Video Spokesperson"><img class="best img img-responsive" src="images/video-spokesperson-seal.png" alt="Best in Search Video Spokesperson" id="BestInSearchSpokesperson" /></a>
-                    </div>
-                    <div class="col-sm-5">
-                        <h4 class="pageinfo">#1 in Video Production</h4>
-                        <a href="#" data-toggle="tooltip" title="#1 in Video Production"><img class="img img-responsive best" src="images/video-production-seal.png" alt="Best in Search Video Production" id="BestInSearchProduction" /></a> </div>
+                    <?php include("includes/seal-random-2.php"); ?>
                 </div>
                 <div class="row">
-                    <h4 class="pageinfo">#1 in Video Production</h4>
-                    <a href="#" data-toggle="tooltip" title="Winner Best Web Design Agencies - Video Production"><img class="img img-responsive videoProduction"  alt="Winner in Video Production" src="https://www.websitetalkingheads.com/images/video-production-winner.png"></a> </div>
+                   <?php include("includes/banner-random.php"); ?>
+                    </div>
             </div>
             <div class="col-md-4">
                 <?php include ("forms/contactform.php");?>

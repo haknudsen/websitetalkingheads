@@ -98,11 +98,6 @@
                                     <button name="submit" class="btn btn-custom" id="submit">
                 <h2 class="need-video">I Need Video!</h2>
                 </button>
-                                
-
-
-
-
                                 </div>
                             </div>
                         </fieldset>
@@ -148,7 +143,7 @@
     <section class="container">
         <div class="no-1">
             <h1 class="text-center">Custom Whiteboard Video</h1>
-            <img src="../images/video-production-seal.png" alt="#1 Video Production" width="340" title="Best in Search #1 Video Production"/>
+            <img src="../images/explainer-video-seal.png" alt="Best Explainer Video Companies" class="best-explainer" title="Best Explainer Video Companies"/>
             <h3>Keep your visitor's attention and boost sales.</h3>
             <p>At Talking Heads we don't just make whiteboard sketch videos. We have spent years studying the art of persuasion and communication. Your story must be told well. So we collaborate to customize and create a video that boost leads and increases sales in your product or service.</p>
             <p>Talking Heads' Sketch videos stimulate your viewers' brains. Mirror neutrons in the brain make the viewer think it's his or her hand drawing, triggering a dopamine rush in the brain and increase the viewers capacity to focus and remember. The brain is now curious and pays more attention wondering what the whiteboard drawing will become. As it tries to guess what the sketch will become, it focuses more and rewards itself. This happens over and over. Whiteboard sketch is like a time machine with each new drawing practically hypnotizing your viewer. Because of this hyper focus, the viewer also remembers more of your whiteboard animation that regular videos.</p>

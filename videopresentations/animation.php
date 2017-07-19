@@ -37,20 +37,21 @@
     <?php include ('../includes/header.php'); ?>
     <section id="jumbotron">
         <h1>Animated Explainer Videos!</h1>
+                        <h2>Talking Heads<sup>&reg;</sup> can explain your product, service or procedure in an Animated Explainer Video!</h2> 
+                        <h3>Our Animated Explainer Videos powerfully expain things step-by-step, and it keep your viewers' attention!</h3>
         <div class="info">
             <div class="row center-block p25">
-                <div class="col-sm-6 col-sm-offset-1">
+                <div class="col-sm-6 col-sm-offset-1" id="jumbo-video">
                     <!-- 16:9 aspect ratio -->
                     <div class="embed-responsive embed-responsive-16by9">
                         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jZEI_x0akE4?rel=0"></iframe>
                     </div>
                 </div>
                 <div class="col-sm-4">
+                   <div id="form-holder">
                     <?php include ('../forms/requestQuote-Animation.php'); ?>
-                    <div class="product-info">
-                        <article class="animation-video-description">Talking Heads<sup>&reg;</sup> can explain your product, service or procedure in an Animated Explainer Video! Our Animated Explainer Videos powerfully expain things step-by-step, and it keep your viewers' attention!</article>
-                    </div>
-                </div>
+                   </div>
+                <img src="../images/explainer-video-banner.png" alt="Best Explainer Video Companies" class="img img-responsive" id="explainer-seal"/> </div>
             </div>
         </div>
         <div class="line"></div>
@@ -72,6 +73,14 @@
     <?php include ('../includes/CallForQuote.php'); ?>
     <?php include ('../includes/footer.php'); ?>
     <?php include ('../includes/chatform.php'); ?>
+    <script>
+        $(document).ready(function(){
+            var videoHeight = $('#jumbo-video').height();
+            var newHeight = (videoHeight-$('#form-holder').outerHeight());
+            console.log(' v'+videoHeight + '-' + newHeight);
+            $('#explainer-seal').css('max-height',newHeight);
+        })
+        </script>
 </body>
 
 </html>
