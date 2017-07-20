@@ -193,3 +193,6 @@ dd{padding-top:0;padding-bottom:2px;font-size:16px}
 .media:first-child {border-top:  thin solid #1981FF;padding-top: 20px}
 #form-holder{margin-bottom: 10px}
 .best-explainer{width: 25%}
+.awards .d-block{float: left;width: 33%;margin: auto;}
+.awards p{padding: 10px;text-indent: 24px;font-weight: 300;font-size: 2rem;line-height: 2.4rem}
+.awards {border-color: #3E69A3}

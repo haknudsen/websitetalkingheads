@@ -50,11 +50,12 @@
     <div id="wthvideo"></div>
   </div>
   <div class="col-sm-4 center-block">
-    <div class="price-btn center-block" id="featured" title="Featured Actor Scpecial" onclick="window.location = 'specials/';">
+    <div class="price-btn center-block">
+      <a href="../specials"  id="featured" title="Featured Actor Scpecial">
       <h3 class="time">Click for </h3>
       <h3 class="time">Featured Actor</h3>
       <h4 class="time">Special</h4>
-    </div>
+      </a>    </div>
     <div class="price-btn center-block" title="Multiple Video Discount">
       <h3 class="time">Call for</h3>
       <h4 class="mvd">Multiple Video</h4>
