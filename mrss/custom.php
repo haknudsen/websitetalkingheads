@@ -26,7 +26,6 @@ if ( $result->num_rows > 0 ) {
         $discriptionCurrent = array_rand($description);
         $spintax = new Spintax();
         $spun = $spintax->process($description[$discriptionCurrent]);
-        echo($spun . '<br><br>');
         $xml_text .= '
 <item>
 	<title>Custom Presentation - '.$name.'</title>

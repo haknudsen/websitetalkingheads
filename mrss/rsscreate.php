@@ -9,7 +9,7 @@
 <?php include ("actors.php");?>
 <?php include ("animation.php");?>
 <?php include ("custom.php");?>
-<?php include ("outro.php");?>
+<?php include ("logo_reveals.php");?>
 <?php include ("powerpunch.php");?>
 <?php include ("typography.php");?>
 <?php include ("virtual.php");?>
