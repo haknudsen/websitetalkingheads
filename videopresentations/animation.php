@@ -72,12 +72,10 @@
     </section>
     <?php include ('../includes/CallForQuote.php'); ?>
     <?php include ('../includes/footer.php'); ?>
-    <?php include ('../includes/chatform.php'); ?>
     <script>
         $(document).ready(function(){
             var videoHeight = $('#jumbo-video').height();
             var newHeight = (videoHeight-$('#form-holder').outerHeight());
-            console.log(' v'+videoHeight + '-' + newHeight);
             $('#explainer-seal').css('max-height',newHeight);
         })
         </script>
