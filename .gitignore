@@ -2,6 +2,7 @@ _notes/
 /bower_components/
 /node_modules/
 # Mine
+/lightbox/
 dwsync.xml
 =======
 /create-canvas/**
