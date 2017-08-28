@@ -7,7 +7,7 @@
  } else {
   $pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
  }
-?> 
+?>
 
 <form id="__vtigerWebForm" name="whiteboard leads" action="https://websitetalkingheads.od1.vtiger.com/modules/Webforms/capture.php" method="post" accept-charset="utf-8" enctype="multipart/form-data"><input type="hidden" name="__vtrftk" value="sid:a1105c570bd55a2283df9592cfff26c8904dbab9,1443480850">
     <fieldset>

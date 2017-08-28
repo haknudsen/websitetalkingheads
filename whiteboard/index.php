@@ -180,15 +180,6 @@ requirements, read the setup guide: google.com/ads/remarketingsetup -->
         <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1058129782/?value=0&amp;label=-jOyCO6ZkAIQ9o7H-AM&amp;guid=ON&amp;script=0"/> </div>
     </noscript>
     <script type="text/javascript">
-        if ( typeof hmtracker == 'undefined' ) {
-            var hmt_script = document.createElement( 'script' ),
-                hmt_purl = encodeURIComponent( location.href ).replace( '.', '~' );
-            hmt_script.type = "text/javascript";
-            hmt_script.src = "//www.websitetalkingheads.com/heatmap/?hmtrackerjs=WTH&uid=370cf24c7a34e7a3f696452761f30d5bcab302a6&purl=" + hmt_purl;
-            document.getElementsByTagName( 'head' )[ 0 ].appendChild( hmt_script );
-        }
-    </script>
-    <script type="text/javascript">
         window.onload = function () {
             var N = navigator.appName,
                 ua = navigator.userAgent,

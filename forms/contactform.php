@@ -7,11 +7,17 @@
  } else {
   $pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
  }
+    if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED_FOR' ] != '' ) {
+        $sentIP = $_SERVER[ 'HTTP_X_FORWARDED_FOR' ];
+    } else {
+        $sentIP = $_SERVER[ 'REMOTE_ADDR' ];
+    }
 ?> 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <div class="form-horizontal contactform">
     <form name="contactform" class="form-horizontal" action="https://www.websitetalkingheads.com/forms/getInfoSendMailCaptcha.php" method="post">
       <fieldset>
+             <input name="designation" type="hidden" value="<?=$sentIP?>" >    
         
         <!-- Form Name -->
         <legend>
