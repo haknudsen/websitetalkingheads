@@ -20,7 +20,7 @@ if ( $result->num_rows > 0 ) {
         echo PHP_EOL;
         echo( '<div class="container">' );
         echo PHP_EOL;
-        echo( '     <a href="#" data-toggle="tooltip" title="' . $alt . '"> <img class="card-img-top award d-block" src="http://websitetalkingheads.com/images/' . $name . '.png"  alt="' . $alt . '" /> </a>' );
+        echo( '     <a href="#" data-toggle="tooltip" title="' . $alt . '"> <img class="card-img-top award d-block" src="https://websitetalkingheads.com/images/' . $name . '.png"  alt="' . $alt . '" /> </a>' );
         echo PHP_EOL;
         echo('<div class="media-body">');
         echo PHP_EOL;
