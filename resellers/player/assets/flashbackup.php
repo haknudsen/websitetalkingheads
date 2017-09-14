@@ -13,7 +13,7 @@ foreach ($xml as $actor){
 	$holder ="'";
 	$actor = $holder.$target.$holder;
 
-	echo '<div id="ipadimage"><a href="#" onClick="showVideo('.$actor.')"><img src="http://www.websitetalkingheads.com/resellerdemos/carimages/'.$target.'.png" width="160" height="180" id="'.$target.'" alt="'.$target.'" title="'.$target.'" ></a>';
+	echo '<div id="ipadimage"><a href="#" onClick="showVideo('.$actor.')"><img src="https://www.websitetalkingheads.com/resellerdemos/carimages/'.$target.'.png" width="160" height="180" id="'.$target.'" alt="'.$target.'" title="'.$target.'" ></a>';
 	echo PHP_EOL;
 	echo '<div class="ipadimage-text"><a href="#" onClick="showVideo('.$actor.')">'.$target.'</a></div>';
 	echo PHP_EOL;
