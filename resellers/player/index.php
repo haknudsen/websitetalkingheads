@@ -49,8 +49,9 @@
     </section>
     <section class="alert alert-info m-25">
        <div class="container">
-        <button class="btn btn-success center-block">Updated!</button>
-        <div class="contactus">Reseller system has been updated. It is nowwith HTML5</div>
+        <div class="btn btn-success center-block m-25">Updated!</div>
+        <br>
+        <p>Reseller system has been updated. HTML5 and compatible with devices.</p>
         <p>Files updated September 14th,2017. If you have downloaded your files prior to this date, please download the latest version and update. </p>
         <p class="text-center"><a href="html5Only.zip">Download the HTML5 version here:</a>
         </p>
