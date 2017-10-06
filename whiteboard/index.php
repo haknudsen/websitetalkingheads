@@ -107,6 +107,7 @@
             <div class="c"></div>
         </div>
     </section>
+    <div class="container clearfix"></div>
     <section class="container" style="margin-top:-15px">
         <?php include("../includes/testimonial-awards.php"); ?>
     </section>

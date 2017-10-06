@@ -18,7 +18,7 @@ if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED
 <h1>Get A Quote!</h1>
 <div class="formbox">
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<form name="Whiteboard Captcha" id="__vtigerWebForm" action="https://websitetalkingheads.od1.vtiger.com/modules/Webforms/capture.php" enctype="multipart/form-data" method="post" accept-charset="utf-8"><input name="__vtrftk" type="hidden" value="sid:7c1d14333a07bcc7bcdc42c338459d085a8bc4f4,1507230926">
+<form name="Whiteboard Captcha" id="__vtigerWebForm" action="https://websitetalkingheads.od1.vtiger.com/modules/Webforms/capture.php" enctype="multipart/form-data" method="post" accept-charset="utf-8"><input name="__vtrftk" type="hidden" value="sid:e5bb315345fe9722a961b430a8f95313d6a09d80,1507275846">
     <input name="publicid" type="hidden" value="e3342afbff2983a5148df30f6d7dbe5b">
     <input name="urlencodeenable" type="hidden" value="1">
     <input name="name" type="hidden" value="Whiteboard Captcha">
@@ -59,6 +59,10 @@ if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED
                 </tr>
             </tbody>
         </table>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <div class="g-recaptcha" data-sitekey="6LcmdSATAAAAAGWw734vGo0AXQwuxJS7RmDZA_Fe"></div>
+    <input id="captchaUrl" type="hidden" value="https://websitetalkingheads.od1.vtiger.com/modules/Settings/Webforms/actions/ValidateCaptcha.php">
+    <input name="recaptcha_validation_value" id="recaptcha_validation_value" type="hidden">
         <button name="submit" class="btn btn-custom" id="submit"><h2 class="need-video">I Need Video!</h2></button>
     </form>
 <script type="text/javascript">
@@ -198,7 +202,42 @@ if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED
                     return false;
                 }
             }
+            document.getElementById( "vtigerFormSubmitBtn" ).disabled = true;
+            var recaptchaValidationValue = document.getElementById( "recaptcha_validation_value" ).value;
+            if ( recaptchaValidationValue != true ) {
+                var recaptchaResponse = document.getElementsByName( "g-recaptcha-response" )[ 0 ].value;
+                var validationUrl = document.getElementById( "captchaUrl" ).value + "?recaptcha_response=" + recaptchaResponse + "&current_url=" + window.location.href + "&callback=captchaCallback";
+                jsonp.fetch( validationUrl );
+                return false;
+            }
         };
+    };
+    var jsonp = {
+        callbackCounter: 0,
+        fetch: function ( url ) {
+            url = url + "&callId=" + this.callbackCounter;
+            var scriptTag = document.createElement( "SCRIPT" );
+            scriptTag.src = url;
+            scriptTag.async = true;
+            scriptTag.id = "captchaCallback_" + this.callbackCounter;
+            scriptTag.type = "text/javascript";
+            document.getElementsByTagName( "HEAD" )[ 0 ].appendChild( scriptTag );
+            this.callbackCounter++;
+        }
+    };
+
+    function captchaCallback( data ) {
+        if ( data.result.success == true ) {
+            document.getElementById( "recaptcha_validation_value" ).value = true;
+            var form = document.getElementById( "__vtigerWebForm" );
+            form.submit();
+        } else {
+            document.getElementById( "vtigerFormSubmitBtn" ).disabled = false;
+            grecaptcha.reset();
+            alert( "Captcha not verified. Please verify captcha." );
+        }
+        var element = document.getElementById( "captchaCallback_" + data.result.callId );
+        element.parentNode.removeChild( element );
     }
 </script>
 </div>

@@ -41,14 +41,14 @@
     </section>
     <section class="whiteboard-demo">
         <div class="row">
-            <div class="col-md-8" id="video-holder">
+            <div class="col-md-7" id="video-holder">
                 <div class="banner-text">Cool Explainer Videos, Whiteboard Sketch Videos, Spokesperson too!</div>
                 <div class="embed-responsive embed-responsive-16by9  banner-video">
                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NiCdoZ_7kcA?rel=0&autohide=2&showinfo=0" allowfullscreen> </iframe>
                 </div>
             </div>
-            <div class="get-a-quote col-md-4">
-                <?php include("../forms/whiteboard-quote.php"); ?>
+            <div class="get-a-quote col-md-5">
+                <?php include("../forms/whiteboard.php"); ?>
             </div>
         </div>
     </section>
@@ -125,15 +125,6 @@ requirements, read the setup guide: google.com/ads/remarketingsetup -->
     <noscript>
         <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1058129782/?value=0&amp;label=-jOyCO6ZkAIQ9o7H-AM&amp;guid=ON&amp;script=0"/> </div>
     </noscript>
-   <script>
-$(document).ready(function(){
-    var targetHeight = $('#video-holder').height();
-    var curHeight = $('.get-a-quote').height();
-    var setPad = (targetHeight-curHeight)/2;
-    console.log( targetHeight +":"+ curHeight + ":" +setPad);
-    $('.get-a-quote').css('padding-top',setPad+"px");
-})
-</script>
 </body>
 
 </html>
