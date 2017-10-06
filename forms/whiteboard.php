@@ -15,7 +15,7 @@ if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED
     $sentIP = $_SERVER[ 'REMOTE_ADDR' ];
 }
 ?>
-<h1>Get A Quote!</h1>
+<h1 class="text-center">Get A Quote!</h1>
 <div class="formbox">
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <form name="Whiteboard Captcha" id="__vtigerWebForm" action="https://websitetalkingheads.od1.vtiger.com/modules/Webforms/capture.php" enctype="multipart/form-data" method="post" accept-charset="utf-8"><input name="__vtrftk" type="hidden" value="sid:e5bb315345fe9722a961b430a8f95313d6a09d80,1507275846">
@@ -46,7 +46,7 @@ if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED
             <input name="cf_1001" type="hidden" value="<?=$pageURL?>" data-label="">
             <input name="designation" type="hidden" value="<?=$sentIP?>" data-label="">
             <tr>
-                <td><label>Description</label>
+                <td><label>Message</label>
                 </td>
                 <td>
                     <textarea name="description"></textarea>
