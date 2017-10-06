@@ -1,0 +1,73 @@
+@charset "utf-8";
+@media(max-width:767px) {
+.intro-message{padding-bottom:15%}
+.intro-message > h1{font-size:3em}
+ul.intro-social-buttons > li{display:block;margin-bottom:20px;padding:0}
+ul.intro-social-buttons > li:last-child{margin-bottom:0}
+.intro-divider{width:100%}
+.banner h2{margin:0;text-shadow:2px 2px 3px rgba(0,0,0,0.6);font-size:3em}
+ul.banner-social-buttons > li{display:block;margin-bottom:20px;padding:0}
+ul.banner-social-buttons > li:last-child{margin-bottom:0}
+.navbar-brand{margin:0 auto;width:100%}
+}
+@media (min-width: 200px) and (max-width:480px) {
+	.btn-custom{font-size:12px}
+.my-box{margin:0}
+.container-small{padding:0}
+.container-wide{padding:0}
+.navbar-text{display:none}
+.nav{text-align:center}
+.navbar-brand{margin:0 auto}
+.pad-right{margin:0;text-align:center}
+.banner{height:460px}
+.jumbotron{padding:10px;width:100%}
+.whiteboard-demo {padding:50px 0}
+.form-group{margin:0!important}
+.phone{font-size:16px;text-align:center;margin:0 auto}
+.text-large{font-size:24px}
+.section-heading-spacer{width:100%}
+.banner{height:480px}
+#testimonial{margin:0}
+.banner h2{font-size:1em}
+.testimonialName{font-size:12px}
+.need-video{font-size:12px}
+}
+
+@media (min-width: 481px) and (max-width:600px) {
+.nav{text-align:center}
+.pad-right{margin:0 auto}
+.navbar-text{display:none}
+.my-box{margin:10px}
+.container-small{padding:0}
+.container-wide{padding:0}
+.form-group{margin:15px!important}
+.phone{font-size:18px;text-align:center;margin:0 auto}
+.text-large{font-size:48px}
+.section-heading-spacer{width:100%}
+.banner{height:380px}
+}
+
+@media (min-width: 601px) and (max-width: 768px) {
+.form-group{margin:15px!important}
+.btn-custom{font-size:16px}
+.pad-right{text-align:center;line-height:1em;margin:0 auto}
+.navbar-text{display:none}
+.container-small{padding:20px}
+.section-heading-spacer{width:100%}
+}
+@media (min-width: 769px) and (max-width: 914px) {
+.form-group{margin:15px!important}
+}
+@media(max-width:1199px) {
+ul.banner-social-buttons{float:left;margin-top:15px}
+}
+@media (min-width: 992px) and (max-width: 1348px) {
+.jumbotron .h1, .jumbotron h1 {font-size: 36px;margin-top:0}
+.form-control{padding:2px;margin-bottom:2px}
+.btn-custom{font-size:12px;height:60px;padding:2px}
+.navbar-text{display:none}
+.container-small{padding:20px}
+.section-heading-spacer{width:100%}
+.text-large{font-size:36px}
+}
+
