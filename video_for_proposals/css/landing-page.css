@@ -4,7 +4,7 @@
 
 body, html { width: 100%; height: 100%; background-color: #000; color: #FFF; font-size: 18px; font-family: "acumin-pro", sans-serif; font-style: normal; font-weight: 400; }
 h1, h2, h3, h4, h5, h6 { font-family: "acumin-pro", sans-serif; font-style: normal; font-weight: 700; }
-p { font-weight: 200; }
+p { font-weight: 200;text-indent: 2rem }
 a:hover { color: #CCC; text-decoration: none }
 .lead { font-size: 18px; font-weight: 400 }
 .intro-header { padding-top: 50px; padding-bottom: 50px; text-align: center; color: #f8f8f8; background: url(../img/intro-bg.jpg) no-repeat center center; background-size: cover }
@@ -72,3 +72,6 @@ testimonialQuote { font-size: 18px; margin: 0 auto }
 .panel{border-radius: 8px;border:2px solid whitesmoke;background: -webkit-linear-gradient(45deg, #000000, #222222, #000000, #222222, #000000, #222222, #000000, #222222, #000000);background-size:20px 20px;}
 .panel-body { padding: 20px 10px; color: #f8f8f8; }
 .panel-title { font-size: 22px; font-weight: 600 }
+.best-whiteboard{max-width: 1280px;width: 50%;padding-right: 2rem}
+.min{min-height: 3rem}
+dd{text-indent: 2rem}
