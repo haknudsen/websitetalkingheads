@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="Whiteboard Video, Animation, Explainer Video, Video Scribe, Hand Drawing Video, Chalkboard Video, Online Spokesperson, Video Spokesperson, Website Talking Heads, Website Actor, Website Video, Virtual Spokesperson, Spokesperson, Video Presenter, Website Presenter, Website Spokesperson">
@@ -15,10 +14,9 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <link href="css/fluid.css" rel="stylesheet" type="text/css"/>
-    <link rel="stylesheet" type="text/css" href="../lightbox/js/lightbox/themes/default/jquery.lightbox.css"/>
+    <link rel="stylesheet" type="text/css" href="http://www.websitetalkingheads.com/lightbox/js/lightbox/themes/default/jquery.lightbox.css"/>
     <?php include ('../includes/googleanalytics.php'); ?>
 </head>
-
 <body>
     <section class="wrap">
         <div class="header">
@@ -40,28 +38,38 @@
                 </div>
             </div>
             <div class="get-a-quote col-md-5">
-                 <?php include("../forms/landingpage-quote.php"); ?>
+                <?php include("includes/form.php"); ?>
             </div>
             <div class="c"></div>
         </div>
     </section>
     <section class="container pad-10">
-        <div class="banner-bottom-text">Hand Drawing Animation, Whiteboard Animation Videos, Whiteboard Sketch, Video Scribe and Cartoon Doodle Videos.</div>
-        <div class="content-text">
-        <p>At Talking Heads we don't just make hand drawn animation. We have spent years studying the art of persuasion and communication. Your story must be told well. So we collaborate to customize and create a video that boost leads and increases sales in your product or service.  We find out <strong>WHAT </strong>you do, <strong>HOW</strong> you do it, and <strong>WHY</strong> you do it that way. We understand language, inspiration and impact. We have actually produced thousands of Videos for some of the biggest service in the world.</p>
+        <?php include("includes/awards.php"); ?>
+    </section>
+    <section class="wrap">
+        <div class="content">
+            <div class="banner-bottom-text">Hand Drawing Animation, Whiteboard Animation Videos, Whiteboard Sketch, Video Scribe and Cartoon Doodle Videos.</div>
+            <div class="content-text">At Talking Heads we don't just make hand drawn animation. We have spent years studying the art of persuasion and communication. Your story must be told well. So we collaborate to customize and create a video that boost leads and increases sales in your product or service.</div>
+            <div class="examples">
+                <?php include ('../whiteboard/includes/examples-whiteboard-full.php'); ?>
+                <div class="c"></div>
+            </div>
+            <div class="c"></div>
+            <div id="exampleLine"></div>
+            <div class="examples">
+                <?php include ('http://www.websitetalkingheads.com/videopresentations/includes/examples-whiteboard-animations.php'); ?>
+                <div class="c"></div>
+            </div>
+            <div class="video-bottom"></div>
+            <div class="call-now center-block">
+                <h2>CALL NOW to Get Results!</h2>
+                <h3><a href="tel://801-748-2281" title="Give us a call.">801-748-2281</a></h3>
+            </div>
+            <div class="ten"></div>
         </div>
-        <div class="examples clearfix">
-            <?php include ('../whiteboard/includes/examples-whiteboard-even.php'); ?>
-        </div>
-        <div class="video-bottom"></div>
-        <div class="call-now center-block">
-            <h2>CALL NOW to Get Results!</h2>
-            <h3><a href="tel://801-748-2281" title="Give us a call.">801-748-2281</a></h3>
-        </div>
-        <div class="ten"></div>
         </div>
     </section>
-    <section class="container pad-10 clearfix">
+    <section class="container pad-10">
         <div class="no-1">
             <h1 class="text-center">Hand Drawing Animation</h1>
             <img src="../images/video-production-seal.png" alt="#1 Video Production" width="340" title="Best in Search #1 Video Production"/>
@@ -71,19 +79,18 @@
         </div>
     </section>
     <section class="footer-wrap">
-        <div class="footer">© 2016, <a href="https://websitetalkingheads.com" target="_blank">WebsiteTalkingHeads.com</a>. All Rights Reserved.</div>
+        <div class="footer">© 2016, <a href="http://websitetalkingheads.com" target="_blank">WebsiteTalkingHeads.com</a>. All Rights Reserved.</div>
         </div>
     </section>
     <?php include ('../includes/googlescripts.php'); ?>
-    <script src="../lightbox/js/jquery.min.js"></script>
-    <script src="../lightbox/js/lightbox/jquery.lightbox.min.js"></script>
+    <script src="http://websitetalkingheads.com/lightbox/js/jquery.min.js"></script>
+    <script src="http://websitetalkingheads.com/lightbox/js/lightbox/jquery.lightbox.min.js"></script>
     <script src="includes/js.js"></script>
-
-    <noscript>
-        <div style="display:inline;">
-            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1058129782/?value=0&amp;label=-jOyCO6ZkAIQ9o7H-AM&amp;guid=ON&amp;script=0"/>
-        </div>
-    </noscript>
+    
+<noscript>
+    <div style="display:inline;">
+        <img height = "1" width = "1" style = "border-style:none;" alt = "" src = "//googleads.g.doubleclick.net/pagead/viewthroughconversion/1058129782/?value=0&amp;label=-jOyCO6ZkAIQ9o7H-AM&amp;guid=ON&amp;script=0" />
+            </div>
+</noscript>
 </body>
-
 </html>

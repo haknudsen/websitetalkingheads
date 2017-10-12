@@ -249,9 +249,7 @@
 						<h2 class="section-heading text-center">
 							We don’t use TEMPLATES, QUESTIONNAIRES, or IMAGE LIBRARIES
 						</h2>
-						<p class="lead">
-							Templates are generic and lack the magic that make your company unique. Questionnaires are like phone surveys, they don’t dig deep enough to really understand what you do. And over used Images Libraries just suck! You want your own custom message, not someone else’s leftovers.
-						</p>
+						<p class="lead">Templates are generic and lack the magic that make your company unique. Questionnaires are like phone surveys, they don’t dig deep enough to really understand what you do. And over used Images Libraries just suck! You want your own custom message, not someone else’s leftovers.  <a href="http://seovideoexperts.com/best-whiteboard-explainer-video/" title="Custom Video">Custom Explainer Video</a> is a must! </p>
 					</div>
 				</div>
 			</div>
@@ -266,9 +264,7 @@
 						</h3>
 					</div>
 					<div class="col-md-8">
-						<p>
-							Before we begin, We ask questions. We learn WHAT you do, HOW you do it, and WHY you do it that way? We want to be on the same page as you; like we work there.
-						</p>
+						<p>Before we start, We interview you. We discover WHAT you do, HOW you do it, and WHY you do it that method? We wish to be on the very same page as you; like we work there.</p>
 						<hr class="section-heading-spacer">
 						<div class="clearfix"></div>
 					</div>
@@ -280,10 +276,7 @@
 							Collaboration
 						</h3>
 					</div>
-					<div class="col-md-8">
-						<p>
-							The best scripts are a collaborative. You know your business. We know motivation, language and influence. Combined, we are unstoppable.
-						</p>
+					<div class="col-md-8"><p>The very best scripts are a group process. You understand your company. We understand impact, language and inspiration. Integrated, we are unstoppable.</p>
 						<hr class="section-heading-spacer">
 						<div class="clearfix"></div>
 					</div>
@@ -296,10 +289,7 @@
 						</h3>
 					</div>
 					<div class="col-md-8">
-						<p>
-							We have created hundreds of <?=$keyword?>
-							 Videos for some of the largest business in the world. They trust us to create a great product that will influence their customers.
-						</p>
+						<p> We have actually developed countless Videos for a few of the biggest organisation on the planet. They trust us to develop a fantastic item that will affect their clients. </p>
 						<hr class="section-heading-spacer">
 						<div class="clearfix"></div>
 					</div>

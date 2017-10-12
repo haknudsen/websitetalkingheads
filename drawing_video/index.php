@@ -107,13 +107,15 @@
 ?>
 </section>
 <section class="content-section-a">
-  <div class="short-content">
+ <div class="row">
+     <div class="col-lg-5 col-lg-offset-1">
+         <div class="short-content">
     <div class="row space">
       <div class="col-md-4 text-center"><i class="fa fa-comments-o  fa-5x grey" aria-hidden="true"></i> <br>
         <h3 class="no-margin">Communication</h3>
       </div>
       <div class="col-md-8">
-        <p>Before we begin, We ask questions. We learn WHAT you do, HOW you do it, and WHY you do it that way? We want to be on the same page as you; like we work there.</p>
+        <p>Before we start, We consult with you. We discover WHAT you do, HOW you do it, and WHY you do it that way. We wish to be on the exact same page as you; like we work there.</p>
         <hr class="section-heading-spacer">
         <div class="clearfix"></div>
       </div>
@@ -123,7 +125,7 @@
         <h3 class="no-margin">Collaboration</h3>
       </div>
       <div class="col-md-8">
-        <p>The best scripts are a collaborative. You know your business. We know motivation, language and influence. Combined, we are unstoppable.</p>
+        <p>The very best scripts are a shared process. You understand your service. We understand language, inspiration and impact. Integrated, we are unstoppable.</p>
         <hr class="section-heading-spacer">
         <div class="clearfix"></div>
       </div>
@@ -135,12 +137,25 @@
       <div class="col-md-8">
         <p>We have created hundreds of
           <?=$keyword?>
-          Videos for some of the largest business in the world. They trust us to create a great product that will influence their customers.</p>
+          Videos for some of the biggest organisations on the planet. They trust us to produce an excellent item that will affect their consumers. </p>
         <hr class="section-heading-spacer">
         <div class="clearfix"></div>
       </div>
     </div>
   </div>
+     </div>
+     <div class="col-lg-5">
+                <div class="row">
+                    <div class="col-lg-offset-2 col-lg-8">
+                        <img src="../whiteboard/whiteboard-animation-video-example.jpg" class="img-responsive" alt="Blackboard Animation Video Example">
+                    </div>
+                </div>
+                <h3>Drawing Video</h3>
+                <p> In Drawing Video  we show the illistrator's arm drawing the images of the video rather than just revealing the images. These Videos can be found in various styles. Though the design can depend upon the artist's private style, they will try to look like something that would be drawn on a page. <a href="https://www.websitetalkingheads.com/drawing_animation/" title="Learn More">You can learn more here.</a></p></div>
+         
+     </div>
+ </div>
+  
 </section>
 <section class="video">
   <div class="row space center-block">
