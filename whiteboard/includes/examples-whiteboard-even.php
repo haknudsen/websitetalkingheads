@@ -23,7 +23,6 @@ if ( !$db ) {
 $sql = "SELECT * FROM " . $table;
 $sql .= " ORDER BY list_order";
 $sql .= " LIMIT 30";
-echo($sql . "<br>");
 $result = $conn->query( $sql );
 
 if ( $result->num_rows > 0 ) {

@@ -248,9 +248,7 @@
                 
                 </div>
                 <div class="col-md-8">
-                    <p>
-                        Before we begin, We ask questions. We learn WHAT you do, HOW you do it, and WHY you do it that way? We want to be on the same page as you; like we work there.
-                    </p>
+                    <p>Before we start, We interview you. We find out WHAT you do, HOW you do it, and WHY you do it that way. We wish to be on the exact same page as you; like we work there.</p>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                 </div>
@@ -265,9 +263,7 @@
                 
                 </div>
                 <div class="col-md-8">
-                    <p>
-                        The best scripts are a collaborative. You know your business. We know motivation, language and influence. Combined, we are unstoppable.
-                    </p>
+                    <p>The very best scripts are a shared process. You understand your company. We understand inspiration, impact and language. Integrated, we are unstoppable.</p>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                 </div>
@@ -281,11 +277,7 @@
                 
                 </div>
                 <div class="col-md-8">
-                    <p>
-                        We have created hundreds of
-                        <?=$keyword?>
-                        Videos for some of the largest business in the world. They trust us to create a great product that will influence their customers.
-                    </p>
+                     <p>We have developed countless <?=$keyword?> Videos for a few of the biggest companies worldwide. They trust us to develop a terrific video that will affect their consumers. </p>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                 </div>
@@ -294,6 +286,7 @@
     </section>
     <section class="video">
         <div class="row space center-block">
+           <h2 class="text-capitalize text-center">Learn more about <a href="http://www.whiteboard.video/Animation/" title="whiteboard animation video">whiteboard animation video</a></h2>
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe allowfullscreen class="embed-responsive-item" data-toggle="tooltip" frameborder="0" src="https://player.vimeo.com/video/164675870?title=0&byline=0&portrait=0" title="&lt;?=$keyword?&gt; Custom Example"></iframe>
             </div>

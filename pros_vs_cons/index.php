@@ -49,13 +49,13 @@
                     <li>Video is a very engaging medium when it comes to marketing. It gives your website a face and, therefore, makes it more relatable as well. Online, gaining your client's trust is key to a successful business. </li>
                     <li>Video is the simpler option when it comes to obtaining information; and people are more likely to pay attention to a virtual actor speaking to them instead of reading an entire page of text. The best bit? You can even provide easy to follow instructions and actually demonstrate them instead of simply writing the process out. Visuals are always helpful.</li>
                     <li>Video is far more comprehensive than text. Every second of your video is capable of delivering significant amounts of information to whoever is viewing it. In fact, people are better at retaining information that's been told to them instead of something that they've read off of a page. Whilst a lot of this is also dependent on the script you have written, there is no denying that listening to a web spokesperson is more effective when it comes to getting the message across. </li>
-                    <li>You can get really creative with an online video. Remember that there are no rules to how you should present thisâ€”if you want to have a story which your website spokes-model would narrate then go for it! If it fits the brand you want to establish, then give it a try. These are things that you cannot do with plain website articles. </li>
+                    <li>You can get really creative with an online video. Remember that there are no rules to how you should present this—if you want to have a story which your website spokes-model would narrate then go for it! If it fits the brand you want to establish, then give it a try. These are things that you cannot do with plain website articles. </li>
                 </ul>
             </div>
             <div class="col-sm-6">
                 <h3 class="text-uppercase">cons:</h3>
                 <ul class="pros-cons">
-                    <li>The main issue that most people have with using an online spokesperson would be the production cost. Yes, it isn't the most affordable option and most new businesses might not be able to afford it. There is a lot that goes into producing a videoâ€” so do know you'll be investing a certain amount of money into it.</li>
+                    <li>The main issue that most people have with using an online spokesperson would be the production cost. Yes, it isn't the most affordable option and most new businesses might not be able to afford it. There is a lot that goes into producing a video— so do know you'll be investing a certain amount of money into it.</li>
                     <li>It eats up bandwidth. Again, bandwidth is something business owners pay for so they would want to be as efficient with it as possible. </li>
                     <li>Not everyone would have the time to sit through a presentation. In which case, you'll still need to put up text information on your website. Anything that can be absorbed without taking up so much of their time. </li>
                 </ul>
@@ -67,6 +67,26 @@
             <p class="summary">These are just a few of the PROS and CONS when it comes to using a walk on actor for your website. Weigh everything and think about your own needs before deciding whether it's worth your money or not. </p>
             <p class="summary">Good luck!</p>
         </div>
+    </section>
+    <section class="container-fluid text-center margin-25">
+        <div class="row">
+            <div class="col-md-offset-1 col-md-5">
+                <img src="../whiteboard/whiteboard-animation-video-example.jpg" class="img-responsive" alt="Hand Drawn Video Example">
+            </div>
+            <div class="col-md-5" </div>
+                <h2 class="section-heading text-capitalize">
+				You are in good company
+			</h2>
+            
+                <h3>We discover WHAT you do, HOW you do it, and WHY you do it that way.</h3>
+                <h3>We understand language, inspiration and impact.</h3>
+                <h3>We have produced thousands of Videos for some of the biggest companies in the world.</h3>
+                <h4>You can <a href="http://www.whiteboard.video/" title="Lean More abot Whiteboard Video">learn more</a></h4>
+      <h3 class="grey">
+				Call <span class="white"><a href="tel://801-748-2281" title="Give us a call.">801-748-2281</a></span> to learn why Fortune 100's, startups, small and mid-size businesses trust Talking Heads with their video needs.
+			</h3>
+            
+
     </section>
     <?php include ('../includes/footer.php'); ?>
     <?php include ('../includes/chatform.php'); ?>

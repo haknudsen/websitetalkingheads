@@ -48,7 +48,7 @@
     <section class="container pad-10">
         <div class="banner-bottom-text">Hand Drawing Animation, Whiteboard Animation Videos, Whiteboard Sketch, Video Scribe and Cartoon Doodle Videos.</div>
         <div class="content-text">
-        <p>At Talking Heads we don't just make hand drawn animation. We have spent years studying the art of persuasion and communication. Your story must be told well. So we collaborate to customize and create a video that boost leads and increases sales in your product or service.  We find out <strong>WHAT </strong>you do, <strong>HOW</strong> you do it, and <strong>WHY</strong> you do it that way. We understand language, inspiration and impact. We have actually produced thousands of Videos for some of the biggest service in the world.</p>
+        <p>At Talking Heads we don't just make hand drawn animation. We have spent years studying the art of persuasion and communication. Your story must be told well. So we collaborate to customize and create a video that boost leads and increases sales in your product or service.  We find out <strong>WHAT </strong>you do, <strong>HOW</strong> you do it, and <strong>WHY</strong> you do it that way. We understand language, inspiration and impact. We have actually produced thousands of Videos for some of the biggest organizatoins in the world.  To learn more visit <a href="http://www.whiteboard.video/" title="Whiteboard.Video">http://www.whiteboard.video/</a></p>
         </div>
         <div class="examples clearfix">
             <?php include ('../whiteboard/includes/examples-whiteboard-even.php'); ?>
