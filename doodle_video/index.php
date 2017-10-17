@@ -227,8 +227,7 @@
 						</h2>
 						<p class="lead">
 							<?=$keyword?>
-							 Videos created by a Professional Video Production company can increase your sales and close rates.
-						</p>
+					    Videos created by a Professional Video Production company can increase your sales and close rates.  Learn about <a href="http://www.talkingheads.com/Whiteboard_Video/" title="Custom Whiteboard Videos">Custom Whiteboard Video</a> </p>
 						<p class="lead">
 							When they are looking at the numbers, you should be reminding them WHY they should be working with you. We will work closely with you to develop a clear message that sparks their motivation to engage with your company.
 						</p>

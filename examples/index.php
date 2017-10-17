@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <title>Website Talking Heads&reg; | Examples Page</title>
-  <meta name="keywords" content="online spokesperson, video spokesperson, website talking heads, website actor, website video, transparent flash, virtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
+  <meta name="keywords" content="HTML5 video, whiteboard, animation, web video, online spokesperson, video spokesperson, website talking heads, website actor, website video, tvirtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
   <meta name="description" content="Here are examples of the many types of videos Website Talking Heads&reg creates. Use a Website Spokesperson to greet visitors to your site.  If you are a professional video developer you can use one of our Professional Spokespeople in your next internet video project.  Use a Custom Video Presentation to demonstrate your product.  Use a whiteboard or animation video to show your process or service.">
   <meta name="robots" CONTENT="index, follow">
   <!-- (Robot commands: All, None, Index, No Index, Follow, No Follow) -->
@@ -189,6 +189,9 @@
   <div class="example center-block">
   <?php include ("../includes/productionAward.php");?>
   </div>
+  </section>
+  <section class="container">
+    <h3><a href="https://www.websitetalkingheads.com/landing-pages/" title="More Video types">Some of our different styles of video</a></h3>
   </section>
   <script src="../js/tooltip.js"></script> 
   <script src="../js/production.js"></script>

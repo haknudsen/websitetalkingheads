@@ -13,7 +13,7 @@
 <script type="text/javascript">
 if (document.images) {
     img1 = new Image();
-    img1.src = "https://websitetalkingheads.com/audiologist/images/submit.png";
+    img1.src = "images/submit.png";
 }
 </script>
 </head>
@@ -79,7 +79,7 @@ if (document.images) {
     <div class="examples">
         <h2>Custom Whiteboard Examples</h2>
         <?php include("includes/body-whiteboard.php"); ?>
-        <h2><a href="../whiteboard/index.php">More Examples</a></h2>
+        <h2 class="text-center">See <a href="../whiteboard/index.php">More Examples</a> or <a href="http://www.whiteboard.video/" title="Learn More">learn more here</a>.</h2>
     </div>
 </div>
 <?php include ("includes/footer.php");?>

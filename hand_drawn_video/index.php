@@ -61,6 +61,7 @@
 						<a class="white" href="tel://801-748-2281" title="Give us a call."><strong class="phone">801-748-2281</strong></a>
 					</h3>
             
+
             </div>
         </div>
     </nav>
@@ -76,6 +77,7 @@
 						 Video.
 					</h2>
             
+
             </div>
             <div class="row center-block">
                 <div class="col-md-8 center-block">
@@ -109,6 +111,7 @@
 						Hypnotize With the Hand
 					</h3>
             
+
                 <p>
                     Scientific studies show our brains like watching a hand draw. We are pulled in and can’t take our eyes off. Have your
                     <?=$keyword?>
@@ -121,6 +124,7 @@
 						Candy for the Brain
 					</h3>
             
+
                 <p>
                     <?=$keyword?>
                     causes a dopamine rush. This increases the viewers focus, memory, and enjoyment. Your cients will watch your proposal. We like it! We REALLY like it!
@@ -132,6 +136,7 @@
 						Guess What I’m Drawing
 					</h3>
             
+
                 <p>
                     As the hand reveals the drawing. Our brains asks, “What is that?” It tries to guess and when it’s right it rewards itself with more brain candy.
                 </p>
@@ -143,46 +148,25 @@
 				You are in good company
 			</h2>
     
+        <h3>We discover WHAT you do, HOW you do it, and WHY you do it that way.</h3>
+        <h3>We understand language, inspiration and impact.</h3>
+        <h3>We have produced thousands of Videos for some of the biggest companies in the world.</h3>
         <h3 class="grey">
 				Call <span class="white"><a class="phone-header" href="tel://801-748-2281" title="Give us a call.">801-748-2281</a></span> to learn why Fortune 100’s, startups, small and mid-size businesses trust Talking Heads with their <?=$keyword?>
 				 videos.
 			</h3>
-    
-    </section>
-    <section class="container-fluid text-center panel-holder">
-        <div class="row">
-            <div class="col-md-4 col-md-offset-2">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3 class="panel-title">
-								Panel title
-							</h3>
-                    
-                    </div>
-                    <div class="panel-body">
-                        Panel content
+    <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-2 col-lg-8">
+                      <img src="../whiteboard/whiteboard-animation-example.jpg" class="img-responsive" alt="Hand Drawn Video Example">
                     </div>
                 </div>
-                <div id="content"></div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3 class="panel-title">
-								You are in Good Company
-							</h3>
-                    
-                    </div>
-                    <div class="panel-body">
-                        Call <span class="white"><a class="phone-header" href="tel://801-748-2281" title="Give us a call.">801-748-2281</a></span> to learn why Fortune 100’s, startups, small and mid-size businesses trust Talking Heads® with their
-                        <?=$keyword?>
-                        Videos. "It's Time We Talk" about your Video Solution.
-                    </div>
-                </div>
-                <div id="content"></div>
-            </div>
-        </div>
+                <h3>Hand Drawn Video</h3>
+                <p> In a Hand Drawn Video we show the illistrator's arm drawing the images of the video rather than just revealing the images. These Videos can be found in various styles. Though the design can depend upon the artist's personal style, they will try to look like something that would be drawn on a page. <a href="http://www.whiteboard.video/" title="Learn More Now">Learn more.</a></p>
+      </div>
+
     </section>
+
     <section class="content-section-a">
         <div class="container space">
             <div class="row">
@@ -192,6 +176,7 @@
 							Professional Video <?=$keyword?>
 						</h2>
                 
+
                     <p class="lead">
                         <?=$keyword?>
                         Videos created by a Professional Video Production company can increase your sales and close rates.
@@ -222,6 +207,7 @@
 							We don’t use TEMPLATES, QUESTIONNAIRES, or IMAGE LIBRARIES
 						</h2>
                 
+
                     <p class="lead">
                         Templates are generic and lack the magic that make your company unique. Questionnaires are like phone surveys, they don’t dig deep enough to really understand what you do. And over used Images Libraries just suck! You want your own custom message, not someone else’s leftovers.
                     </p>
@@ -238,11 +224,10 @@
 							Communication
 						</h3>
                 
+
                 </div>
                 <div class="col-md-8">
-                    <p>
-                        Before we begin, We ask questions. We learn WHAT you do, HOW you do it, and WHY you do it that way? We want to be on the same page as you; like we work there.
-                    </p>
+                    <p>Before we start, We interview you. We discover WHAT you do, HOW you do it, and WHY you do it that way. We wish to be on the very same page as you; like we work there.</p>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                 </div>
@@ -254,11 +239,10 @@
 							Collaboration
 						</h3>
                 
+
                 </div>
                 <div class="col-md-8">
-                    <p>
-                        The best scripts are a collaborative. You know your business. We know motivation, language and influence. Combined, we are unstoppable.
-                    </p>
+                    <p>The very best scripts are a group process. You understand your organisation. We understand inspiration, impact and language. Integrated, we are unstoppable.</p>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                 </div>
@@ -270,13 +254,11 @@
 							Creation
 						</h3>
                 
+
                 </div>
                 <div class="col-md-8">
-                    <p>
-                        We have created hundreds of
-                        <?=$keyword?>
-                        Videos for some of the largest business in the world. They trust us to create a great product that will influence their customers.
-                    </p>
+                    <p> We have produced countless
+                        <?=$keyword?>Videos for a few of the biggest organisations worldwide. They trust us to produce an excellent video that will affect their consumers. </p>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                 </div>
@@ -297,6 +279,7 @@
 						Client Testimonials
 					</h2>
             
+
                 <div class="span10" id="testimonial">
                     <div class="testimonialQuote">
                         This work is absolutely phenomenal !!!! You guys are awesome... We are very, very pleased and look forward to working with you guys on other projects.
@@ -388,8 +371,6 @@
     <script src="../video_for_proposals/js/custom.js">
     </script>
     <script src="../video_for_proposals/js/cycle.js">
-    </script>
-    <script src="../video_for_proposals/js/video-player.js">
     </script>
     <script src="../landing/content.js">
     </script>
