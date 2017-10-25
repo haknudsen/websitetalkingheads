@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Website Talking Heads&reg; | Product Demos</title>
-    <meta name="keywords" content="HTML5 video, whiteboard, animation, web video, online spokesperson, video spokesperson, website talking heads, website actor, website video, tvirtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
+    <meta name="keywords" content="Product Demonstration,Product Demo Videos ,Product Demonstration Videos,benefits of product demonstration,product demonstration video company,what is product demonstration,what is a demo video,product demo video examples,product video examples,product video production,">
     <meta name="description" content="Here are examples of the product demonstations we have created.  We can create a custom product demonstration to demonstrate your product.  Use a whiteboard or animation video to show your process or service.">
     <meta name="robots" CONTENT="index, follow">
     <!-- (Robot commands: All, None, Index, No Index, Follow, No Follow) -->
@@ -47,6 +47,35 @@
     <?php include ('../includes/header.php'); ?>
     <section class="jumbotron">
         <h1>Product Demonstrations</h1>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="header-group">
+                        <h3>Sometimes when you develop a brand-new product the most challenging part is figuring out the best way to reveal it to the masses.</h3>
+                        <h3>You only get one chance to make an impression.</h3>
+                        <h3>Here at Talking Heads<sup>&reg;</sup> we make it easy for you.</h3>
+                        <h3>Our Product Demo Videos will show off your product and explain how it will work for your customers.</h3>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <?php include("../forms/contactform.php"); ?>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="container">
+        <?php 
+				    $table ="product_demos";
+				    $show ="4";
+				    include("Product-Demo.php"); 
+		?>
+    </section>
+
+    <section class="alert alert-success">
+        <div class="container product-demo">
+            <p>Sometimes when you develop a brand-new product the hardest part is brainstorming the easiest way to reveal it to the masses. Like the old expression states, 'You just have one opportunity to make a very first impression.' How is your service going to make that impression for a brand-new product? Prior to the web, business count on print media and photos to promote their products, however with the web and social networks, business are relying on product demonstrations to engage their audience and drive sales.</p>
+            <p>You get one opportunity to make an impression. Make it count with a sensational, expertly produced product demonstration.</p>
+        </div>
     </section>
     <?php include ('../includes/footer.php'); ?>
     <?php include ('../includes/chatform.php'); ?>
