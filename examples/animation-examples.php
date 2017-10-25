@@ -7,7 +7,7 @@ $result = $conn->query( $sql );
 if ( $result->num_rows > 0 ) {
     echo '<div class="example-column">';
     if(!$count){
-        $count = 7;
+        $count = 6;
     }
     $x = 1;
 while($row = $result->fetch_assoc()) {
