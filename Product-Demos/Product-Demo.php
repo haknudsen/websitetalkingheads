@@ -31,9 +31,9 @@ if ( $content->num_rows > 0 ) {
 } else {
     echo( 'fail' );
 }
-$show = $show + 1;
+$show = $show;
 $sql = "SELECT * FROM " . $table;
-$sql .= " ORDER BY RAND() LIMIT " . $show;
+$sql .= " ORDER BY list_order LIMIT " . $show;
 $result = $conn->query( $sql );
 
 if ( $result->num_rows > 0 ) {

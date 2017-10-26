@@ -66,15 +66,15 @@
     <section class="container">
         <?php 
 				    $table ="product_demos";
-				    $show ="4";
+				    $show ="3";
 				    include("Product-Demo.php"); 
 		?>
     </section>
 
     <section class="alert alert-success">
         <div class="container product-demo">
-            <p>Sometimes when you develop a brand-new product the hardest part is brainstorming the easiest way to reveal it to the masses. Like the old expression states, 'You just have one opportunity to make a very first impression.' How is your service going to make that impression for a brand-new product? Prior to the web, business count on print media and photos to promote their products, however with the web and social networks, business are relying on product demonstrations to engage their audience and drive sales.</p>
-            <p>You get one opportunity to make an impression. Make it count with a sensational, expertly produced product demonstration.</p>
+            <p>You only get one chance to make a first impression. Make it count with a sensational, expertly produced product demonstration.</p>
+            <p>Sometimes when you develop a brand-new product the hardest part is brainstorming the easiest way to reveal it to the masses.  How is your service going to make that impression for a brand-new product? Prior to the web, business counted on print media and photos to promote their products, however with the web and social networks, business are relying on product demonstrations to engage their audience and drive sales.</p>
         </div>
     </section>
     <?php include ('../includes/footer.php'); ?>
