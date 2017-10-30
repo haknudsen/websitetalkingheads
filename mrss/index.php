@@ -34,6 +34,7 @@
     <li><a href="powerpunch.rss">Power Punch Video Examples</a></li>
     <li><a href="virtual.rss">Virtual Set Examples</a></li>
     <li><a href="whiteboard.rss">Whiteboard Video Examples</a></li>
+    <li><a href="explainer.rss">Explainer Examples</a></li>
     <li><a href="typography.rss">Typography Examples</a></li>
     <li><a href="logo_reveals.rss">Logo Reveals Examples</a></li>
     <li><a href="wthvideo.rss">All Videos</a></li>
