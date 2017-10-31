@@ -18,6 +18,5 @@ fwrite($file_handler, $xml_text);
 //close the file handler
 
 fclose($file_handler);
-echo(' Typography');
 
 ?>

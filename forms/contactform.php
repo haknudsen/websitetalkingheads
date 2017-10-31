@@ -23,7 +23,6 @@ if ( isset( $_SERVER[ 'HTTP_X_FORWARDED_FOR' ] ) && $_SERVER[ 'HTTP_X_FORWARTDED
     <input name="__vtCurrency" type="hidden" value="1">
     <input name="designation" type="hidden" value="<?=$sentIP?>" data-label="">
     <input name="cf_1001" type="hidden" value="<?=$pageURL?>" data-label="">
-    <h3>Contact Us</h3>
     <table>
         <tbody>
             <tr>

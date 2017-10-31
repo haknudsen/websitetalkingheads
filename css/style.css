@@ -334,6 +334,7 @@ dd { padding: 0 0 .5em 1em }
 #__vtigerWebForm input,#__vtigerWebForm textarea { margin: 0 0 4px; padding: 4px; width: 100%}
 .g-recaptcha div {margin: 0 auto}
 #__vtigerWebForm h2 { margin-bottom: 5px }
+#__vtigerWebForm h3 { margin:-5px auto 5px}
 .form-group-vtiger .form-control { margin: 5px 5px }
 .vtiger-label { color: #000; width: 100%; padding-top: 7px; text-align: center }
 .vtiger-input { width: 100%; padding: 10px 16px; font-size: 18px; line-height: 1.3333333; border-radius: 6px }

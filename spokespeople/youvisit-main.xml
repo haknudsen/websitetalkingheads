@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<carousel xr="400" yr="70" xc="150" yc="300" perspective="50" vx="455" vy="182" reflection="0" speed=".004" videowidth="540" videoheight="360" captioncol="0x0088AA" captionfont="Arial">
+	<item image="../carimages/Chantel" caption="Chantel" targetloc="../videos/Chantel.flv"/>
+	<item image="../carimages/Shona" caption="Shona" targetloc="../videos/Shona.flv"/>
+	<item image="../carimages/Julia" caption="Julia" targetloc="../videos/Julia.flv"/>
+	<item image="../carimages/Amanda" caption="Amanda" targetloc="../videos/Amanda.flv"/>
+	<item image="../carimages/Hilary" caption="Hilary" targetloc="../videos/Hilary.flv"/>
+	<item image="../carimages/Ilene" caption="Ilene" targetloc="../videos/Ilene.flv"/>
+	<item image="../carimages/Jillian" caption="Jillian" targetloc="../videos/Jillian.flv"/>
+	<item image="../carimages/Sade" caption="Sade" targetloc="../videos/Sade.flv"/>
+	<item image="../carimages/Marina" caption="Marina" targetloc="../videos/Marina.flv"/>
+	<item image="../carimages/Robyn" caption="Robyn" targetloc="../videos/Robyn.flv"/>
+	<item image="../carimages/Jen" caption="Jen" targetloc="../videos/Jen.flv"/>
+	<item image="../carimages/Minna" caption="Minna" targetloc="../videos/Minna.flv"/>
+	<item image="../carimages/Baylee" caption="Baylee" targetloc="../videos/Baylee.flv"/>
+	<item image="../carimages/Elizabeth" caption="Elizabeth" targetloc="../videos/Elizabeth.flv"/>
+	<item image="../carimages/Carly" caption="Carly" targetloc="../videos/Carly.flv"/>
+	<item image="../carimages/Denise" caption="Denise" targetloc="../videos/Denise.flv"/>
+	<item image="../carimages/Andrea" caption="Andrea" targetloc="../videos/Andrea.flv"/>
+	<item image="../carimages/Jackie" caption="Jackie" targetloc="../videos/Jackie.flv"/>
+	<item image="../carimages/Jennifer" caption="Jennifer" targetloc="../videos/Jennifer.flv"/>
+	<item image="../carimages/Heather" caption="Heather" targetloc="../videos/Heather.flv"/>
+	<item image="../carimages/Jessica" caption="Jessica" targetloc="../videos/Jessica.flv"/>
+	<item image="../carimages/Cydney" caption="Cydney" targetloc="../videos/Cydney.flv"/>
+	<item image="../carimages/Elise" caption="Elise" targetloc="../videos/Elise.flv"/> 
+	<item image="../carimages/Krystal" caption="Krystal" targetloc="../videos/Krystal.flv"/>
+	<item image="../carimages/Derek" caption="Derek" targetloc="../videos/Derek.flv"/>
+	<item image="../carimages/Jed" caption="Jed" targetloc="../videos/Jed.flv"/>
+	<item image="../carimages/Joey" caption="Joey" targetloc="../videos/Joey.flv"/>
+	<item image="../carimages/Daniel" caption="Daniel" targetloc="../videos/Daniel.flv"/>
+	<item image="../carimages/Jeff" caption="Jeff" targetloc="../videos/Jeff.flv"/>
+	<item image="../carimages/Mike" caption="Mike" targetloc="../videos/Mike.flv"/>
+	<item image="../carimages/Michael" caption="Michael" targetloc="../videos/Michael.flv"/>
+	<item image="../carimages/Ben" caption="Ben" targetloc="../videos/Ben.flv"/>
+	<item image="../carimages/Walt" caption="Walt" targetloc="../videos/Walt.flv"/>
+	<item image="../carimages/Jack" caption="Jack" targetloc="../videos/Jack.flv"/>
+	<item image="../carimages/Lonzo" caption="Lonzo" targetloc="../videos/Lonzo.flv"/>
+</carousel>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<carousel xr="400" yr="70" xc="150" yc="300" perspective="50" vx="455" vy="182" reflection="0" speed=".004" videowidth="540" videoheight="360" captioncol="0x0088AA" captionfont="Arial">
+	<item image="../carimages/Cathleen" caption="Cathleen" targetloc="../videos/Cathleen.flv"/>
+	<item image="../carimages/Lena" caption="Lena" targetloc="../videos/Lena.flv"/>
+	<item image="../carimages/TheHand" caption="TheHand" targetloc="../videos/The Hand Carousel.flv"/>
+	<item image="../carimages/Nora" caption="Nora" targetloc="../videos/Nora.flv"/>
+	<item image="../carimages/Natalya" caption="Natalya" targetloc="../videos/Natalya.flv"/>
+	<item image="../carimages/Shona" caption="Shona" targetloc="../videos/Shona.flv"/>
+	<item image="../carimages/Maria" caption="Maria-Spanish" targetloc="../videos/Maria-Spanish.flv"/>
+	<item image="../carimages/Marina" caption="Marina" targetloc="../videos/Marina.flv"/>
+	<item caption="Brenden-Spanish"/>
+	<item caption="Cindy-Spanish"/>
+	<item caption="Tomasso-Italian"/>
+	<item caption="Ernesto-Italian"/>
+</carousel>
