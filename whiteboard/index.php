@@ -44,7 +44,7 @@
             <div class="col-md-7" id="video-holder">
                 <div class="banner-text">Cool Explainer Videos, Whiteboard Sketch Videos, Spokesperson too!</div>
                 <div class="embed-responsive embed-responsive-16by9  banner-video">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NiCdoZ_7kcA?rel=0&autohide=2&showinfo=0" allowfullscreen> </iframe>
+                    <iframe type="text/html"  class="embed-responsive-item" src="https://www.youtube.com/embed/2XeyqP-gho4?autoplay=1&loop=1&rel=0" frameborder="0"></iframe>
                 </div>
             </div>
             <div class="get-a-quote col-md-5">
