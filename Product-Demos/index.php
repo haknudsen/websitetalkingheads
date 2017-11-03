@@ -50,17 +50,23 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-8">
-                    <div class="header-group">
-                        <h3>Sometimes when you develop a brand-new product the most challenging part is figuring out the best way to reveal it to the masses.</h3>
-                        <h3>You only get one chance to make an impression.</h3>
-                        <h3>Here at Talking Heads<sup>&reg;</sup> we make it easy for you.</h3>
-                        <h3>Our Product Demo Videos will show off your product and explain how it will work for your customers.</h3>
+                    <!-- 16:9 aspect ratio -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EgSlL2JTyzQ?loop=1&rel=0" frameborder="0"></iframe>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <?php include("../forms/contactform.php"); ?>
                 </div>
             </div>
+        </div>
+    </section>
+    <section class="container">
+        <div class="header-group">
+            <h2>Product Development</h2>
+            <h3>Sometimes when you develop a brand-new product the most challenging part is figuring out the best way to reveal it to the masses.</h3>
+            <h3>Here at Talking Heads<sup>&reg;</sup> we make it easy for you.</h3>
+            <h3>Our Product Demo Videos will show off your product and explain how it will work for your customers.</h3>
         </div>
     </section>
     <section class="container">
@@ -73,8 +79,9 @@
 
     <section class="alert alert-success">
         <div class="container product-demo">
-            <p>You only get one chance to make a first impression. Make it count with a sensational, expertly produced product demonstration.</p>
-            <p>Sometimes when you develop a brand-new product the hardest part is brainstorming the easiest way to reveal it to the masses.  How is your service going to make that impression for a brand-new product? Prior to the web, business counted on print media and photos to promote their products, however with the web and social networks, business are relying on product demonstrations to engage their audience and drive sales.</p>
+            <h2>You only get one chance to make a first impression</h2>
+            <h3>Make it count with a sensational, expertly produced product demonstration.</h3>
+            <p>Sometimes when you develop a brand-new product the hardest part is brainstorming the easiest way to reveal it to the masses. How is your service going to make that impression for a brand-new product? Prior to the web, business counted on print media and photos to promote their products, however with the web and social networks, business are relying on product demonstrations to engage their audience and drive sales.</p>
         </div>
     </section>
     <?php include ('../includes/footer.php'); ?>
