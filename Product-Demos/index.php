@@ -52,7 +52,7 @@
                 <div class="col-sm-8">
                     <!-- 16:9 aspect ratio -->
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EgSlL2JTyzQ?loop=1&rel=0" frameborder="0"></iframe>
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kJNivWYq1MY?loop=1&rel=0" frameborder="0"></iframe>
                     </div>
                 </div>
                 <div class="col-sm-4">
