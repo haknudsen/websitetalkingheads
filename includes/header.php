@@ -125,3 +125,20 @@ $tags = get_meta_tags( $pagetitle ); /* get tags for info */
         s.parentNode.insertBefore( ga, s );
     } )();
 </script>
+<script type="application/ld+json"> { 
+"@context" : "http://schema.org",
+"@type" : "LocalBusiness", 
+"address" : {
+"@type": "PostalAddress",
+"addressLocality": "Sandy", 
+"addressRegion": "Utah", 
+"postalCode": "84070", 
+"streetAddress": "245 W. 9000 S." }, 
+"name":"Website Talking Heads",
+"url":"https://www.websitetalkingheads.com/",
+"email":"info@websitetalkingheads.com",
+"telephone":"8017482281",
+"openingHours": [ 
+"Monday - Friday 09:00-17:30"], 
+"paymentAccepted":"Visa, Master Card, Discover, Amex"
+} </script>

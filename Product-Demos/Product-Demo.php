@@ -50,7 +50,7 @@ if ( $result->num_rows > 0 ) {
             echo PHP_EOL;
             echo '<div class="embed-responsive embed-responsive-16by9 box">';
             echo PHP_EOL;
-            echo '<iframe class="embed-responsive-item" src="//www.youtube.com/embed/' . $target . '" frameborder="0" allowfullscreen"></iframe>';
+            echo '<iframe class="embed-responsive-item" src="//www.youtube.com/embed/' . $target . '?rel=0" frameborder="0" allowfullscreen"></iframe>';
             echo PHP_EOL;
             echo '</div>';
             echo PHP_EOL;
@@ -95,7 +95,7 @@ if ( $result->num_rows > 0 ) {
             echo PHP_EOL;
             echo '<div class="embed-responsive embed-responsive-16by9 box">';
             echo PHP_EOL;
-            echo '<iframe class="embed-responsive-item" src="//www.youtube.com/embed/' . $target . '" frameborder="0" allowfullscreen"></iframe>';
+            echo '<iframe class="embed-responsive-item" src="//www.youtube.com/embed/' . $target . '?rel=0" frameborder="0" allowfullscreen"></iframe>';
             echo PHP_EOL;
             echo '</div>';
             echo PHP_EOL;
