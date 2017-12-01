@@ -83,6 +83,7 @@
             <h3>Make it count with a sensational, expertly produced product demonstration.</h3>
             <p>Sometimes when you develop a brand-new product the hardest part is brainstorming the easiest way to reveal it to the masses. How is your service going to make that impression for a brand-new product? Prior to the web, business counted on print media and photos to promote their products, however with the web and social networks, business are relying on product demonstrations to engage their audience and drive sales.</p>
         </div>
+		<h3 class="text-center"><a href="https://www.websitetalkingheads.com/product-demonstrations/">More Product Demonstrations</a></h3>
     </section>
     <?php include ('../includes/footer.php'); ?>
     <?php include ('../includes/chatform.php'); ?>

@@ -3,6 +3,10 @@ _notes/
 /node_modules/
 # Mine
 /lightbox/
+/specials/custom-theme
+/specials/wthvideo
+/specials/volume
+/specials/fireworks
 dwsync.xml
 =======
 /create-canvas/**
@@ -10,6 +14,7 @@ dwsync.xml
 /filesandcode/**
 /carimages/
 /images/
+/spokespeople/load/
 /global-medical-facilitators121712/
 # Custom #
 # Compiled source #

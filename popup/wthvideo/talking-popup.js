@@ -20,6 +20,8 @@ $(document).ready(function () {
                 $('#exitpopup').fadeIn();
                 up = true;
                 if (thplayer) {
+                    console.log( 'remove' );
+                    $('#spokespersonImage').remove();
                     thplayer.play();
                 } else {
                     wthplayer();

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<borderThickness>1</borderThickness>
+	<borderColor>0x0066CC</borderColor>
+	<actor>
+		<img>Kalli.png</img>
+		<video>Kalli.flv</video>
+	</actor>
+	<actor>
+		<img>Joey.png</img>
+		<video>Joey.flv</video>
+	</actor>
+</data>

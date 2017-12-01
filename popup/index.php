@@ -6,8 +6,7 @@
     <title>Talking Heads | popup test</title>
     <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="keywords" content="online spokesperson, video spokesperson, website talking heads, website actor, website video, transparent flash, virtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
-    <meta name="description" content="At Website Talking Heads we pride ourselves on our Professional Video Spokespeople all of which have years of experience.  No matter what term you wish to use: Video Spokesperson, Virtual Spokesperson, Website Spokesperson, Web Spokesperson, Spokes-model, Walk On Actor, Virtual Actor, Person on website, Online Spokesperson; Talking Heads has the best in the business.">
-    <meta name="robots" content="index, follow">
+    <meta name="description" content="pop up video"
     <!-- (Robot commands: All, None, Index, No Index, Follow, No Follow) -->
     <meta name="revisit-after" content="30 days">
     <meta name="distribution" content="global">

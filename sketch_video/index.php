@@ -23,6 +23,7 @@
     $url = str_replace( "video", " ", $url );
     $url = str_replace( "_", " ", $url );
     $url = str_replace( "/", "", $url );
+	$url = array_shift(explode("?",$url));
     $keyword = ucwords( $url );
     echo( $keyword );
     ?>
