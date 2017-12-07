@@ -8,9 +8,9 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-<link href="http://www.websitetalkingheads.com/css/fluid.css" rel="stylesheet" type="text/css" />
-<link href="http://websitetalkingheads.com/css/style.css" rel="stylesheet" type="text/css" />
-<link href="http://websitetalkingheads.com/css/create-files.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/fluid.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/style.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/create-files.css" rel="stylesheet" type="text/css" />
 <?php  $directory = $_POST['directory'];
 $numberofvideos = $_POST['numberofvideos']; 
 ?>

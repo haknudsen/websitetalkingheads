@@ -1,28 +1,27 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta charset="utf-8">
 <title>Create Files and Code</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-<link href="http://www.websitetalkingheads.com/css/fluid.css" rel="stylesheet" type="text/css" />
-<link href="http://websitetalkingheads.com/css/style.css" rel="stylesheet" type="text/css" />
-<link href="../css/create-files.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/fluid.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/style.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/create-files.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 
 <section class="page-header">
-  <h1>Create Files and Code</h1>
-</section>
+  <h1 class="text-center"><a href="https://www.websitetalkingheads.com/create-canvas/imprintlogo-12417/">Create Canvas Files and Code</a></h1>
 <section class="create-files wide">
 <form class="form-horizontal"  id="form1" name="form1" method="post" action="uploadfiles.php">
 <fieldset>
 
 <!-- Form Name -->
-<legend></legend>
+<legend>Create Canvas</legend>
 
 <!-- Text input-->
 <div class="form-group">

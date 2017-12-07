@@ -8,9 +8,9 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-<link href="http://www.websitetalkingheads.com/css/fluid.css" rel="stylesheet" type="text/css" />
-<link href="http://websitetalkingheads.com/css/style.css" rel="stylesheet" type="text/css" />
-<link href="../css/create-files.css" rel="stylesheet" type="text/css" />
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link href="../css/fluid.css" rel="stylesheet" type="text/css">
+<link href="../css/create-files.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <?php
@@ -68,7 +68,7 @@ $maindirectory = $directory . '/';
 
 // increase script timeout value
 ExtendedZip::zipTree($directorytozip, $maindirectory . "download.zip", ZipArchive::CREATE);
-echo "Archive created successfully.";  
+$archiveCreated = "Archive created successfully.";  
 
 
 $downloadtowrite ='<!doctype html>
@@ -92,12 +92,11 @@ $downloadtowrite ='<!doctype html>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-<link href="http://websitetalkingheads.com/css/fluid.css" rel="stylesheet" type="text/css" />
-<link href="http://websitetalkingheads.com/css/style.css" rel="stylesheet" type="text/css" />
-<link href="http://websitetalkingheads.com/css/examples.css" rel="stylesheet" type="text/css" />
+<link href="/css/fluid.css" rel="stylesheet" type="text/css" />
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/examples.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-<h1 class="pageinfo">Website Talking Heads | <?=$pagename?></h1>
 <section title="Talking-Heads-Header">
 <header class="center-block">
   <h2 class="hidden">Website Talking Heads | Navigation</h2>
@@ -106,31 +105,31 @@ $downloadtowrite ='<!doctype html>
   </section>
   <nav class="row center-block" id = "Talking-Heads-Navigation">
     <ul style="center-block">
-      <li style="center-block"><a href="http://www.websitetalkingheads.com/index.php" id="menuHome">
+      <li style="center-block"><a href="https://www.websitetalkingheads.com/index.php" id="menuHome">
         <h2>Home</h2>
         </a></li>
-      <li style="center-block"><a href="http://websitetalkingheads.com/spokespeople/female-carousel.php" id="menuActors">
+      <li style="center-block"><a href="/spokespeople/female-carousel.php" id="menuActors">
         <h2>Actors</h2>
         </a></li>
-      <li style="center-block"><a href="http://www.websitetalkingheads.com/examples/index.php" id="menuExamples">
+      <li style="center-block"><a href="https://www.websitetalkingheads.com/examples/index.php" id="menuExamples">
         <h2>Examples</h2>
         </a></li>
-      <li style="center-block"><a href="http://www.websitetalkingheads.com/pricing/index.php" id="menuPrices">
+      <li style="center-block"><a href="https://www.websitetalkingheads.com/pricing/index.php" id="menuPrices">
         <h2>Prices</h2>
         </a></li>
-      <li style="center-block"><a href="http://www.websitetalkingheads.com/orderform/index.php" id="menuOrder">
+      <li style="center-block"><a href="https://www.websitetalkingheads.com/orderform/index.php" id="menuOrder">
         <h2>Order</h2>
         </a></li>
-      <li style="center-block"><a href="http://www.websitetalkingheads.com/whiteboard/index.php" id = "whiteboard">
+      <li style="center-block"><a href="https://www.websitetalkingheads.com/whiteboard/index.php" id = "whiteboard">
         <h2><div class="wb">White Board</div></h2>
         </a></li>
-      <li style="center-block"><a href="http://www.websitetalkingheads.com/videopresentations/index.php" id="menuVideos">
+      <li style="center-block"><a href="https://www.websitetalkingheads.com/videopresentations/index.php" id="menuVideos">
         <h2>Videos</h2>
         </a></li>
-      <li style="center-block"><a href="http://www.websitetalkingheads.com/contact.php" id="menuContact">
+      <li style="center-block"><a href="https://www.websitetalkingheads.com/contact.php" id="menuContact">
         <h2>Contact</h2>
         </a></li>
-      <li style="center-block"><a href="http://www.websitetalkingheads.com/specials/"  id="menuSpecials">
+      <li style="center-block"><a href="https://www.websitetalkingheads.com/specials/"  id="menuSpecials">
         <h2>Specials</h2>
         </a></li>
     </ul>
@@ -171,17 +170,17 @@ $downloadtowrite ='<!doctype html>
 <div class="features center-block">
 <h2>Common Installation Issues</h2>
 <p>If you follow the installation directions and your video does not appear, the most common issue is pathing, either the browser is looking in the wrong place for the wthvideo.js file or wthvideo.js file is looking in the wrong place for the player and video files. 
-If this happens the remedy is to change the src value in the line of code above from src="wthvideo/wthvideo.js" to src="http://www.MyWebsite.com/wthvideo/wthvideo.js" (change to match where you put the wthvideo.js file). 
-Then inside the wthvideo.js file is a variable named path. This is the folder the wthvideo.js file looks in for the player and videos. It is normally set to, "wthvideo" you will need to change it to, "http://www.MyWebsite.com/wthvideo"(change to match where you put the files).</p>
+If this happens the remedy is to change the src value in the line of code above from src="wthvideo/wthvideo.js" to src="https://www.MyWebsite.com/wthvideo/wthvideo.js" (change to match where you put the wthvideo.js file). 
+Then inside the wthvideo.js file is a variable named path. This is the folder the wthvideo.js file looks in for the player and videos. It is normally set to, "wthvideo" you will need to change it to, "https://www.MyWebsite.com/wthvideo"(change to match where you put the files).</p>
 <h2>Devices</h2>
-<p>Due to their screen size, devices display web pages differently than regular computers. Your video may cover up part of your page that has content you want your visitors to see or it may be off the screen entirely. You can remedy this by using the responsive feature(placing the video in a specific part of the page or disabling the HTML5 video.  You can learn about customizing the Talking Heads Player <a href="http://websitetalkingheads.com/talking-heads-player/customize-player.php">here</a>.</p>
+<p>Due to their screen size, devices display web pages differently than regular computers. Your video may cover up part of your page that has content you want your visitors to see or it may be off the screen entirely. You can remedy this by using the responsive feature(placing the video in a specific part of the page or disabling the HTML5 video.  You can learn about customizing the Talking Heads Player <a href="/talking-heads-player/customize-player.php">here</a>.</p>
 <h2>Installing on Wordpress, Joomla, or a Website Builder</h2>
 <p>Installing the Talking Heads Player on your website is usually very easy. Wordpress, Joomla, or other Website Builders can add a couple steps though.</p>
 <p><strong>Wordpress-</strong> If your home page is not an actual page and is just a template, the template to add the line of code to is probably index.php but every template is different so it may take some trial and error to find the right place to put the code.  Other template pages could be main index.php and home.php.<br />
     Unless you have ftp access  Wordpress will not allow you to choose where you upload your files. If this is the case you need to follow these simple steps.</p>
 <ul>
     <li>Use the wordpress file manager to upload the files.</li>
-    <li>Find out where that is, the full url.  For example, <span class="myHighlight">"http://www.mywebsite.com/content/2012/6/5"</span>.</li>
+    <li>Find out where that is, the full url.  For example, <span class="myHighlight">"https://www.mywebsite.com/content/2012/6/5"</span>.</li>
     <li>Then in the wthvideo.js file change the path value from "wthvideo" to the url in step 1 and upload it.</li>
     <li>Then in the line of code we sent replace the wthvideo portion of the src value with the location of your files.  It should look something like this, <span class="myHighlight">&lt;script type=&quot;text/javascript&quot; src=&quot;/wp-content/2012/6/5/wthvideo.js&quot;&gt;&lt;/script&gt;</span></li>
 </ul>
@@ -190,9 +189,9 @@ Then inside the wthvideo.js file is a variable named path. This is the folder th
 <ul>
     <li>1.  The line of code above will be inserting into your html code. This code tells the website where to look for the file with the instructions, called wthvideo.js.  This "PATH" must be correct to work.  It must point exactly to where that file is located or no video will play.</li>
     <li>2.  That file has instructions.  The instructions tell the computer the How, What, When, and Where with parameters.  If you are placing your wthvideo director anywhere but your root directory, you must make sure that the path parameter inside the wthvideo.js file points to the actual url location of the video.</li>
-    <li>3.  If you are installing on a web builder or other system that forces you to place the wthvideo director folder in a place other than the root directory, you will need to make the path a "long url" (ex:http://yourdomain.com/example/example/wthvideo/) </li>
+    <li>3.  If you are installing on a web builder or other system that forces you to place the wthvideo director folder in a place other than the root directory, you will need to make the path a "long url" (ex:https://yourdomain.com/example/example/wthvideo/) </li>
 </ul>
-<div class="text-center"><a href="http://websitetalkingheads.com/talking-heads-player/customize-player.php">Click Here for a Detailed Guide on Customizing Your Video Spokesperson</a></div>
+<div class="text-center"><a href="/talking-heads-player/customize-player.php">Click Here for a Detailed Guide on Customizing Your Video Spokesperson</a></div>
 </div>
 </section>
 <section class="container spacer">
@@ -205,7 +204,7 @@ Then inside the wthvideo.js file is a variable named path. This is the folder th
         <h2><a href="../contact.php">© Copyright 2007-2016> WebsiteTalkingHeads.com. All Rights Reserved.</a></h2>
     </footer>
 </section>
-<script src="http://www.websitetalkingheads.com/create-canvas/wthvideo/download.js"></script>
+<script src="https://www.websitetalkingheads.com/create-canvas/wthvideo/download.js"></script>
 </body>
 </html>';
 
@@ -217,6 +216,7 @@ fclose ($Opendownload);
 ?>
 <section class="page-header">
   <h1>Create Zip File and Send Links</h1>
+  <h2><?=$archiveCreated?></h2>
 </section>
 <section class="black create-files thin" >
   <form action="sendfiles.php" method="post" name="sendfiles" target="_self" class="form-horizontal">

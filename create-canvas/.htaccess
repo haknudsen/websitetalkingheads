@@ -8,9 +8,9 @@ RewriteRule .? - [F,L]
 #AddType application/x-pair-sphp4 .php 
 Action application/x-pair-sphp5 /cgi-sys/php-cgiwrap/working/php53.cgi
 AddType application/x-pair-sphp5 .php 
-ErrorDocument 500  http://www.websitetalkingheads.com/404error.html
-ErrorDocument 403  http://www.websitetalkingheads.com/404error.htmlp
-ErrorDocument 401  http://www.websitetalkingheads.com/404error.html
+ErrorDocument 500  https://www.websitetalkingheads.com/404error.html
+ErrorDocument 403  https://www.websitetalkingheads.com/404error.htmlp
+ErrorDocument 401  https://www.websitetalkingheads.com/404error.html
 AddType image/png png
-ErrorDocument 404 http://www.websitetalkingheads.com/404error.html
+ErrorDocument 404 https://www.websitetalkingheads.com/404error.html
 DirectoryIndex index.php index.html index.shtml index.cgi index.php3 index.phtml index.htm home.html welcome.html

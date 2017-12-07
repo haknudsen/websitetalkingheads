@@ -16,9 +16,9 @@ $gif = $_POST['gif'];
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-<link href="http://www.websitetalkingheads.com/css/fluid.css" rel="stylesheet" type="text/css" />
-<link href="http://websitetalkingheads.com/css/style.css" rel="stylesheet" type="text/css" />
-<link href="http://websitetalkingheads.com/css/create-files.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/fluid.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/style.css" rel="stylesheet" type="text/css" />
+<link href="https://www.websitetalkingheads.com/css/create-files.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 <section class="page-header">
@@ -41,6 +41,17 @@ $gif = $_POST['gif'];
         <input name="responsive" type="radio" id="responsive"  value="yes" />
         <strong>yes</strong>: Puts player inside a div tag</div>
     </div>
+	  <hr>
+	  <div class="row five-down">
+      <div class="col-md-2">Display on Devices</div>
+      <div class="col-md-9">
+        <input name="device" type="radio" id="device" value="false"/>
+        <strong>no</strong>: Talking Head doesn't show for Devices</div>
+      <div class="col-md-9 col-md-offset-2">
+        <input name="device" type="radio" id="device" checked="checked"  value="true" />
+        <strong>yes</strong>: Talking Head Shows for Devices</div>
+    </div>
+	  <hr>
     <div class="row five-down">
       <div class="col-md-2">Width</div>
       <div class="col-md-9">
@@ -177,6 +188,14 @@ $gif = $_POST['gif'];
               loop</label>
           </div>
         </div>
+      </div>
+    </div>
+    <div class="row five-down">
+      <div class="col-md-2">GoStopGo</div>
+      <div class="col-md-9">
+        <label>
+          <input name="GoStopGo" type="text" id="GoStopGo" value="0" />
+          <strong>Pause time for GoStopGo (miliseconds)</strong></label>
       </div>
     </div>
     <div class="row five-down">

@@ -1,4 +1,4 @@
-Go to http://docs.hazzardweb.com/filepicker/1.0/installation to get started.
+Go to https://docs.hazzardweb.com/filepicker/1.0/installation to get started.
 
 ============================================================================
 
