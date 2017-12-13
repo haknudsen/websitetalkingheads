@@ -3,16 +3,15 @@
 <head>
 <meta charset="utf-8">
 <title>Talking Heads | Video Spokesperson Pricing</title>
-<link href="../css/pricing.css" rel="stylesheet" type="text/css" />
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="online spokesperson, video spokesperson, website talking heads, website actor, website video, transparent flash, virtual spokesperson, spokesperson, video presenter, website presenter, website spokesperson, video salesperson">
 <meta name="description" content="At Website Talking Heads we pride ourselves on our Professional Video Spokespeople all of which have years of experience.  No matter what term you wish to use: Video Spokesperson, Virtual Spokesperson, Website Spokesperson, Web Spokesperson, Spokes-model, Walk On Actor, Virtual Actor, Person on website, Online Spokesperson; Talking Heads has the best in the business.">
-<META NAME="robots" CONTENT="index, follow">
+<meta name="robots" content="index, follow">
 <!-- (Robot commands: All, None, Index, No Index, Follow, No Follow) -->
-<META NAME="revisit-after" CONTENT="30 days">
-<META NAME="distribution" CONTENT="global">
-<META NAME="rating" CONTENT="general">
-<META NAME="Content-Language" CONTENT="english">
+<meta name="revisit-after" content="30 days">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta name="Content-Language" content="english">
 <meta name="verify-v1" content="YNESpqoAwK51PmBV7/PFKLG0agx7AQPKhXXcYAXGGF8=" />
 <meta name="norton-safeweb-site-verification" content="iinbv24r-1ix20hgj5l94wz2rnn3aiwi0336hwysvvpiskquy6ijsh9wy12f3znbed-hz1ay8ppzhgqap-sicqtw6ui29d0wrfcpenudh1ml9xwjbej7u25xy9pnm6yr" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,10 +23,18 @@
 <link href="/css/style.css?v=<?php echo rand(1,100); ?>" rel="stylesheet" type="text/css" />
 <link href="/css/examples.css" rel="stylesheet" type="text/css" />
 <link href="/css/fluid.css" rel="stylesheet" type="text/css" />
+<link href="../css/pricing.css" rel="stylesheet" type="text/css" />
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 </head>
 <body>
+    <!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
 <?php include ('../includes/header.php'); ?>
 <section class= "page-header">
   <h1>Website Spokesperson Pricing</h1>
@@ -47,7 +54,7 @@
     </div>
   </div>
   <div class="col-sm-4 wthvideo-prices">
-    <div id="wthvideo"></div>
+    <div id="wthvideo"><iframe width="352" height="320" src="video.html"></iframe></div>
   </div>
   <div class="col-sm-4 center-block">
     <div class="price-btn center-block">
@@ -106,6 +113,6 @@
   </div>
 </section>
 <?php include ('../includes/footer.php'); ?>
-<script src="wthvideo/wthvideo.js"></script>
+
 </body>
 </html>
